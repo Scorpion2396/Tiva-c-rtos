@@ -1,0 +1,1370 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_fmul)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_dsub)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_ddiv)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_d2f)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_fadd)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_f2uiz)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+D5_data             0x1               ./Source/Driver/LCD/LCD.o
+__lock___atexit_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+EN                  0x1               ./Source/Driver/LCD/LCD.o
+D6_data             0x1               ./Source/Driver/LCD/LCD.o
+__lock___arc4random_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+D2_data             0x1               ./Source/Driver/LCD/LCD.o
+intreg              0x4               ./Source/App/Main/main.o
+OS_Thread           0x84              ./Source/MIRTOS/src/mirtos_scheduler.o
+ssd1306_buffer      0x400             ./Source/Middleware/OLED_SSD1306/SSD1306.o
+temp                0x4               ./Source/Driver/UART/UART.o
+led1_thread         0x8               ./Source/App/Main/main.o
+D1_data             0x1               ./Source/Driver/LCD/LCD.o
+__lock___env_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+D3_data             0x1               ./Source/Driver/LCD/LCD.o
+__lock___malloc_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+stack_idle          0xa0              ./Source/MIRTOS/src/mirtos_scheduler.o
+D7_data             0x1               ./Source/Driver/LCD/LCD.o
+D4_data             0x1               ./Source/Driver/LCD/LCD.o
+D5                  0x1               ./Source/Driver/LCD/LCD.o
+stack_led2          0xa0              ./Source/App/Main/main.o
+led2_thread         0x8               ./Source/App/Main/main.o
+idle_thread         0x8               ./Source/MIRTOS/src/mirtos_scheduler.o
+D4                  0x1               ./Source/Driver/LCD/LCD.o
+OS_next             0x4               ./Source/MIRTOS/src/mirtos_scheduler.o
+OS_curr             0x4               ./Source/MIRTOS/src/mirtos_scheduler.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+led3_thread         0x8               ./Source/App/Main/main.o
+stack_led1          0xa0              ./Source/App/Main/main.o
+__lock___dd_hash_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+D7                  0x1               ./Source/Driver/LCD/LCD.o
+RS                  0x1               ./Source/Driver/LCD/LCD.o
+D6                  0x1               ./Source/Driver/LCD/LCD.o
+stack_led3          0xa0              ./Source/App/Main/main.o
+__lock___sfp_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+D0_data             0x1               ./Source/Driver/LCD/LCD.o
+
+Discarded input sections
+
+ .debug_frame   0x00000000       0x28 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .debug_frame   0x00000000       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x38 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x5c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x34 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0xb0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0x34 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0xac c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0x50 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000       0x4c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x00020000         0x00020000         xr
+RAM              0x20004000         0x00004000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD ./Source/App/Main/main.o
+LOAD ./Source/BSP/bsp.o
+LOAD ./Source/BSP/startup_tm4c_gnu.o
+LOAD ./Source/Driver/ADC/ADC_Driver.o
+LOAD ./Source/Driver/CAN/CAN_Driver.o
+LOAD ./Source/Driver/GPIO/GPIOdriver.o
+LOAD ./Source/Driver/I2C/I2C.o
+LOAD ./Source/Driver/LCD/LCD.o
+LOAD ./Source/Driver/SPI/SPI.o
+LOAD ./Source/Driver/Timer/Timer.o
+LOAD ./Source/Driver/Timer/timercnter.o
+LOAD ./Source/Driver/UART/UART.o
+LOAD ./Source/MIRTOS/src/mirtos.mutex.o
+LOAD ./Source/MIRTOS/src/mirtos_scheduler.o
+LOAD ./Source/Middleware/MCP3208/MCP3208.o
+LOAD ./Source/Middleware/OLED_SSD1306/SSD1306.o
+LOAD ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x00001000                STACK_SIZE = 0x1000
+                0x00000400                HEAP_SIZE = 0x400
+
+.isr_vector     0x00020000      0x26c
+ *(.isr_vector)
+ .isr_vector    0x00020000      0x26c ./Source/BSP/startup_tm4c_gnu.o
+                0x00020000                g_pfnVectors
+                0x0002026c                . = ALIGN (0x4)
+
+.eh_frame       0x0002026c        0x4
+ .eh_frame      0x0002026c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x0002026c        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.ARM.extab      0x00020270        0x0
+ .ARM.extab     0x00020270        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.ARM.exidx      0x00020270        0x8
+ .ARM.exidx     0x00020270        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.text           0x00020278     0x4954
+                0x00020278                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00020278        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x00020278       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x000202b8       0x74 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x000202b8                _start
+                0x000202b8                _mainCRTStartup
+ .text          0x0002032c        0x0 ./Source/App/Main/main.o
+ .text          0x0002032c        0x0 ./Source/BSP/bsp.o
+ .text          0x0002032c        0x0 ./Source/BSP/startup_tm4c_gnu.o
+ .text          0x0002032c        0x0 ./Source/Driver/ADC/ADC_Driver.o
+ .text          0x0002032c        0x0 ./Source/Driver/CAN/CAN_Driver.o
+ .text          0x0002032c        0x0 ./Source/Driver/GPIO/GPIOdriver.o
+ .text          0x0002032c        0x0 ./Source/Driver/I2C/I2C.o
+ .text          0x0002032c        0x0 ./Source/Driver/LCD/LCD.o
+ .text          0x0002032c        0x0 ./Source/Driver/SPI/SPI.o
+ .text          0x0002032c        0x0 ./Source/Driver/Timer/Timer.o
+ .text          0x0002032c        0x0 ./Source/Driver/Timer/timercnter.o
+ .text          0x0002032c        0x0 ./Source/Driver/UART/UART.o
+ .text          0x0002032c        0x0 ./Source/MIRTOS/src/mirtos.mutex.o
+ .text          0x0002032c        0x0 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .text          0x0002032c        0x0 ./Source/Middleware/MCP3208/MCP3208.o
+ .text          0x0002032c        0x0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .text          0x0002032c        0x0 ./Source/Middleware/RTC_DS3231/DS3231.o
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text          0x0002032c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .text          0x0002032c      0x168 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                0x0002032c                __aeabi_fmul
+                0x0002032c                __mulsf3
+ .text          0x00020494      0x378 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                0x00020494                __aeabi_drsub
+                0x0002049c                __aeabi_dsub
+                0x0002049c                __subdf3
+                0x000204a0                __aeabi_dadd
+                0x000204a0                __adddf3
+                0x00020718                __floatunsidf
+                0x00020718                __aeabi_ui2d
+                0x00020738                __floatsidf
+                0x00020738                __aeabi_i2d
+                0x0002075c                __aeabi_f2d
+                0x0002075c                __extendsfdf2
+                0x000207a0                __floatundidf
+                0x000207a0                __aeabi_ul2d
+                0x000207b0                __floatdidf
+                0x000207b0                __aeabi_l2d
+ .text          0x0002080c      0x424 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+                0x0002080c                __aeabi_dmul
+                0x0002080c                __muldf3
+                0x00020a60                __divdf3
+                0x00020a60                __aeabi_ddiv
+ .text          0x00020c30       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+                0x00020c30                __truncdfsf2
+                0x00020c30                __aeabi_d2f
+ .text          0x00020cd0      0x21c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x00020cd0                __aeabi_frsub
+                0x00020cd8                __subsf3
+                0x00020cd8                __aeabi_fsub
+                0x00020cdc                __aeabi_fadd
+                0x00020cdc                __addsf3
+                0x00020e3c                __aeabi_ui2f
+                0x00020e3c                __floatunsisf
+                0x00020e44                __aeabi_i2f
+                0x00020e44                __floatsisf
+                0x00020e60                __aeabi_ul2f
+                0x00020e60                __floatundisf
+                0x00020e70                __aeabi_l2f
+                0x00020e70                __floatdisf
+ .text          0x00020eec       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x00020eec                __fixunssfsi
+                0x00020eec                __aeabi_f2uiz
+ .text          0x00020f2c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x00020f2c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00020f2c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.text*)
+ .text.led1     0x00020f2c       0x10 ./Source/App/Main/main.o
+                0x00020f2c                led1
+ .text.led2     0x00020f3c       0x10 ./Source/App/Main/main.o
+                0x00020f3c                led2
+ .text.led3     0x00020f4c       0x10 ./Source/App/Main/main.o
+                0x00020f4c                led3
+ .text.main     0x00020f5c       0x68 ./Source/App/Main/main.o
+                0x00020f5c                main
+ .text.NVIC_SystemReset
+                0x00020fc4       0x30 ./Source/BSP/bsp.o
+ .text.assert_failed
+                0x00020ff4        0x6 ./Source/BSP/bsp.o
+                0x00020ff4                assert_failed
+ *fill*         0x00020ffa        0x2 
+ .text.BSP_init
+                0x00020ffc       0x24 ./Source/BSP/bsp.o
+                0x00020ffc                BSP_init
+ .text.Reset_Handler
+                0x00021020       0x74 ./Source/BSP/startup_tm4c_gnu.o
+                0x00021020                Reset_Handler
+ .text.NMI_Handler
+                0x00021094       0x18 ./Source/BSP/startup_tm4c_gnu.o
+                0x00021094                NMI_Handler
+ .text.MemManage_Handler
+                0x000210ac       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x000210ac                MemManage_Handler
+ .text.HardFault_Handler
+                0x000210c8       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x000210c8                HardFault_Handler
+ .text.BusFault_Handler
+                0x000210e4       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x000210e4                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00021100       0x20 ./Source/BSP/startup_tm4c_gnu.o
+                0x00021100                UsageFault_Handler
+ .text.Default_Handler
+                0x00021120       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x00021120                uDMAST_IRQHandler
+                0x00021120                GPIOPortP4_IRQHandler
+                0x00021120                PWM1Gen3_IRQHandler
+                0x00021120                WideTimer5B_IRQHandler
+                0x00021120                DebugMon_Handler
+                0x00021120                QEI2_IRQHandler
+                0x00021120                FlashCtrl_IRQHandler
+                0x00021120                GPIOPortP7_IRQHandler
+                0x00021120                Timer0B_IRQHandler
+                0x00021120                I2C0_IRQHandler
+                0x00021120                WideTimer4B_IRQHandler
+                0x00021120                I2C1_IRQHandler
+                0x00021120                GPIOPortP5_IRQHandler
+                0x00021120                PWMGen0_IRQHandler
+                0x00021120                UART1_IRQHandler
+                0x00021120                CAN1_IRQHandler
+                0x00021120                Timer1B_IRQHandler
+                0x00021120                Watchdog_IRQHandler
+                0x00021120                GPIOPortS_IRQHandler
+                0x00021120                GPIOPortQ7_IRQHandler
+                0x00021120                PWM1Gen2_IRQHandler
+                0x00021120                UART0_IRQHandler
+                0x00021120                GPIOPortL_IRQHandler
+                0x00021120                SSI0_IRQHandler
+                0x00021120                GPIOPortM_IRQHandler
+                0x00021120                FPU_IRQHandler
+                0x00021120                ADCSeq1_IRQHandler
+                0x00021120                GPIOPortP0_IRQHandler
+                0x00021120                WideTimer0B_IRQHandler
+                0x00021120                PWMFault_IRQHandler
+                0x00021120                WideTimer1A_IRQHandler
+                0x00021120                I2C5_IRQHandler
+                0x00021120                I2C4_IRQHandler
+                0x00021120                GPIOPortQ5_IRQHandler
+                0x00021120                PWMGen1_IRQHandler
+                0x00021120                SSI1_IRQHandler
+                0x00021120                I2C2_IRQHandler
+                0x00021120                UART5_IRQHandler
+                0x00021120                GPIOPortC_IRQHandler
+                0x00021120                GPIOPortK_IRQHandler
+                0x00021120                ADCSeq2_IRQHandler
+                0x00021120                PWMGen2_IRQHandler
+                0x00021120                UART2_IRQHandler
+                0x00021120                GPIOPortP3_IRQHandler
+                0x00021120                ADC1Seq0_IRQHandler
+                0x00021120                UART4_IRQHandler
+                0x00021120                GPIOPortJ_IRQHandler
+                0x00021120                Default_Handler
+                0x00021120                WideTimer0A_IRQHandler
+                0x00021120                Timer5A_IRQHandler
+                0x00021120                WideTimer3B_IRQHandler
+                0x00021120                WideTimer2B_IRQHandler
+                0x00021120                WideTimer5A_IRQHandler
+                0x00021120                Timer4A_IRQHandler
+                0x00021120                QEI1_IRQHandler
+                0x00021120                PWM1Fault_IRQHandler
+                0x00021120                GPIOPortP6_IRQHandler
+                0x00021120                QEI0_IRQHandler
+                0x00021120                ADC1Seq2_IRQHandler
+                0x00021120                ADC1Seq1_IRQHandler
+                0x00021120                PWMGen3_IRQHandler
+                0x00021120                GPIOPortD_IRQHandler
+                0x00021120                USB0_IRQHandler
+                0x00021120                I2C3_IRQHandler
+                0x00021120                SVC_Handler
+                0x00021120                GPIOPortP2_IRQHandler
+                0x00021120                GPIOPortQ4_IRQHandler
+                0x00021120                Timer3B_IRQHandler
+                0x00021120                Timer3A_IRQHandler
+                0x00021120                GPIOPortA_IRQHandler
+                0x00021120                ADC1Seq3_IRQHandler
+                0x00021120                Timer0A_IRQHandler
+                0x00021120                GPIOPortP1_IRQHandler
+                0x00021120                ADCSeq0_IRQHandler
+                0x00021120                Timer1A_IRQHandler
+                0x00021120                GPIOPortG_IRQHandler
+                0x00021120                GPIOPortQ3_IRQHandler
+                0x00021120                GPIOPortQ1_IRQHandler
+                0x00021120                Timer5B_IRQHandler
+                0x00021120                ADCSeq3_IRQHandler
+                0x00021120                WideTimer4A_IRQHandler
+                0x00021120                GPIOPortE_IRQHandler
+                0x00021120                CAN0_IRQHandler
+                0x00021120                GPIOPortQ0_IRQHandler
+                0x00021120                Comp0_IRQHandler
+                0x00021120                Comp1_IRQHandler
+                0x00021120                Comp2_IRQHandler
+                0x00021120                GPIOPortQ6_IRQHandler
+                0x00021120                SSI2_IRQHandler
+                0x00021120                PWM1Gen0_IRQHandler
+                0x00021120                GPIOPortF_IRQHandler
+                0x00021120                UART7_IRQHandler
+                0x00021120                UART6_IRQHandler
+                0x00021120                WideTimer2A_IRQHandler
+                0x00021120                GPIOPortB_IRQHandler
+                0x00021120                WideTimer3A_IRQHandler
+                0x00021120                CAN2_IRQHandler
+                0x00021120                WideTimer1B_IRQHandler
+                0x00021120                GPIOPortH_IRQHandler
+                0x00021120                GPIOPortQ2_IRQHandler
+                0x00021120                GPIOPortR_IRQHandler
+                0x00021120                Timer4B_IRQHandler
+                0x00021120                Timer2A_IRQHandler
+                0x00021120                SSI3_IRQHandler
+                0x00021120                Timer2B_IRQHandler
+                0x00021120                uDMAError_IRQHandler
+                0x00021120                GPIOPortN_IRQHandler
+                0x00021120                UART3_IRQHandler
+                0x00021120                SysCtrl_IRQHandler
+                0x00021120                Hibernate_IRQHandler
+                0x00021120                PWM1Gen1_IRQHandler
+ .text.ADC_Init
+                0x0002113c       0x40 ./Source/Driver/ADC/ADC_Driver.o
+                0x0002113c                ADC_Init
+ .text.ADC_port_Init
+                0x0002117c       0x9c ./Source/Driver/ADC/ADC_Driver.o
+ .text.ADC_SS_Init
+                0x00021218       0x4c ./Source/Driver/ADC/ADC_Driver.o
+                0x00021218                ADC_SS_Init
+ .text.analogRead
+                0x00021264      0x180 ./Source/Driver/ADC/ADC_Driver.o
+                0x00021264                analogRead
+ .text.CAN0_Driver
+                0x000213e4       0xc0 ./Source/Driver/CAN/CAN_Driver.o
+                0x000213e4                CAN0_Driver
+ .text.CAN0_Init
+                0x000214a4       0xf8 ./Source/Driver/CAN/CAN_Driver.o
+                0x000214a4                CAN0_Init
+ .text.CAN0_Transmit_Obj
+                0x0002159c       0xd4 ./Source/Driver/CAN/CAN_Driver.o
+ .text.CAN0_Transmit_Data
+                0x00021670       0xc8 ./Source/Driver/CAN/CAN_Driver.o
+ .text.GPIO_Init
+                0x00021738       0x6c ./Source/Driver/GPIO/GPIOdriver.o
+                0x00021738                GPIO_Init
+ .text.DigitalWrite
+                0x000217a4      0x15c ./Source/Driver/GPIO/GPIOdriver.o
+                0x000217a4                DigitalWrite
+ .text.DigitalRead
+                0x00021900      0x19c ./Source/Driver/GPIO/GPIOdriver.o
+                0x00021900                DigitalRead
+ .text.I2C_Init
+                0x00021a9c      0x2b8 ./Source/Driver/I2C/I2C.o
+                0x00021a9c                I2C_Init
+ .text.Check_I2C_BUS_busy
+                0x00021d54        0xc ./Source/Driver/I2C/I2C.o
+ .text.Check_I2C_busy
+                0x00021d60       0x34 ./Source/Driver/I2C/I2C.o
+ .text.Check_I2C_error
+                0x00021d94       0x88 ./Source/Driver/I2C/I2C.o
+ .text.I2C_Write
+                0x00021e1c       0x28 ./Source/Driver/I2C/I2C.o
+                0x00021e1c                I2C_Write
+ .text.I2C_Write_Memory
+                0x00021e44       0x26 ./Source/Driver/I2C/I2C.o
+                0x00021e44                I2C_Write_Memory
+ .text.I2C_Write_Multiple
+                0x00021e6a       0x50 ./Source/Driver/I2C/I2C.o
+                0x00021e6a                I2C_Write_Multiple
+ .text.I2C_Write_Memory_Multiple
+                0x00021eba       0x5c ./Source/Driver/I2C/I2C.o
+                0x00021eba                I2C_Write_Memory_Multiple
+ *fill*         0x00021f16        0x2 
+ .text.I2C_Begin
+                0x00021f18       0x40 ./Source/Driver/I2C/I2C.o
+ .text.I2C_Transmit
+                0x00021f58       0xc0 ./Source/Driver/I2C/I2C.o
+ .text.I2C_Transmit_start_byte
+                0x00022018       0x88 ./Source/Driver/I2C/I2C.o
+ .text.I2C_Transmit_byte
+                0x000220a0       0x80 ./Source/Driver/I2C/I2C.o
+ .text.I2C_Transmit_end_byte
+                0x00022120       0x50 ./Source/Driver/I2C/I2C.o
+ .text.I2C_End  0x00022170       0x2c ./Source/Driver/I2C/I2C.o
+ .text.I2C_Read
+                0x0002219c       0x26 ./Source/Driver/I2C/I2C.o
+                0x0002219c                I2C_Read
+ *fill*         0x000221c2        0x2 
+ .text.I2C_Read_Multiple
+                0x000221c4      0x1a4 ./Source/Driver/I2C/I2C.o
+                0x000221c4                I2C_Read_Multiple
+ .text.I2C_Read_Memory
+                0x00022368       0x36 ./Source/Driver/I2C/I2C.o
+                0x00022368                I2C_Read_Memory
+ .text.I2C_Read_Memory_Multiple
+                0x0002239e       0x32 ./Source/Driver/I2C/I2C.o
+                0x0002239e                I2C_Read_Memory_Multiple
+ .text.LCD_Setup
+                0x000223d0       0x68 ./Source/Driver/LCD/LCD.o
+                0x000223d0                LCD_Setup
+ .text.LCD_Init
+                0x00022438       0x7a ./Source/Driver/LCD/LCD.o
+                0x00022438                LCD_Init
+ .text.LCD_SetCursor
+                0x000224b2       0x96 ./Source/Driver/LCD/LCD.o
+                0x000224b2                LCD_SetCursor
+ .text.LCD_Clear
+                0x00022548        0xe ./Source/Driver/LCD/LCD.o
+                0x00022548                LCD_Clear
+ .text.LCD_Write
+                0x00022556       0x3c ./Source/Driver/LCD/LCD.o
+                0x00022556                LCD_Write
+ *fill*         0x00022592        0x2 
+ .text.Data_Write
+                0x00022594       0x34 ./Source/Driver/LCD/LCD.o
+ .text.Cmd_Write
+                0x000225c8       0x34 ./Source/Driver/LCD/LCD.o
+ .text.upper_nibble
+                0x000225fc       0xac ./Source/Driver/LCD/LCD.o
+ .text.lower_nibble
+                0x000226a8       0xac ./Source/Driver/LCD/LCD.o
+ .text.toggle_enable_signal
+                0x00022754       0x30 ./Source/Driver/LCD/LCD.o
+ .text.delay    0x00022784       0x48 ./Source/Driver/LCD/LCD.o
+ .text.LCD_nextline
+                0x000227cc        0xe ./Source/Driver/LCD/LCD.o
+                0x000227cc                LCD_nextline
+ *fill*         0x000227da        0x2 
+ .text.SSI_2_Init
+                0x000227dc       0xd4 ./Source/Driver/SPI/SPI.o
+                0x000227dc                SSI_2_Init
+ .text.SPI_Write
+                0x000228b0       0x58 ./Source/Driver/SPI/SPI.o
+                0x000228b0                SPI_Write
+ .text.SPI_Read_Write
+                0x00022908       0x58 ./Source/Driver/SPI/SPI.o
+                0x00022908                SPI_Read_Write
+ .text.Enable_Chip_Select
+                0x00022960       0x10 ./Source/Driver/SPI/SPI.o
+                0x00022960                Enable_Chip_Select
+ .text.Disable_Chip_Select
+                0x00022970       0x10 ./Source/Driver/SPI/SPI.o
+                0x00022970                Disable_Chip_Select
+ .text.Timer_Init
+                0x00022980       0x68 ./Source/Driver/Timer/Timer.o
+                0x00022980                Timer_Init
+ .text.Start_Timer_0
+                0x000229e8       0x1c ./Source/Driver/Timer/Timer.o
+ .text.Stop_Timer_0
+                0x00022a04       0x1c ./Source/Driver/Timer/Timer.o
+                0x00022a04                Stop_Timer_0
+ .text.Refresh_Timer_0
+                0x00022a20       0x28 ./Source/Driver/Timer/Timer.o
+                0x00022a20                Refresh_Timer_0
+ .text.Timer_scheduler
+                0x00022a48      0x194 ./Source/Driver/Timer/Timer.o
+                0x00022a48                Timer_scheduler
+ .text.Clear_Timer_Flag
+                0x00022bdc       0x60 ./Source/Driver/Timer/Timer.o
+ .text.init_Timer_Counter
+                0x00022c3c       0x6c ./Source/Driver/Timer/timercnter.o
+                0x00022c3c                init_Timer_Counter
+ .text.Start_Timer_counter
+                0x00022ca8       0x1c ./Source/Driver/Timer/timercnter.o
+                0x00022ca8                Start_Timer_counter
+ .text.Stop_Timer_counter
+                0x00022cc4       0x24 ./Source/Driver/Timer/timercnter.o
+                0x00022cc4                Stop_Timer_counter
+ .text.Pause_Timer_counter
+                0x00022ce8       0x1c ./Source/Driver/Timer/timercnter.o
+                0x00022ce8                Pause_Timer_counter
+ .text.Refresh_Timer_counter
+                0x00022d04       0x30 ./Source/Driver/Timer/timercnter.o
+                0x00022d04                Refresh_Timer_counter
+ .text.millis   0x00022d34       0x24 ./Source/Driver/Timer/timercnter.o
+                0x00022d34                millis
+ .text.UART_init
+                0x00022d58      0x394 ./Source/Driver/UART/UART.o
+                0x00022d58                UART_init
+ .text.UART_print
+                0x000230ec       0x50 ./Source/Driver/UART/UART.o
+                0x000230ec                UART_print
+ .text.UART_Transmitter
+                0x0002313c       0x50 ./Source/Driver/UART/UART.o
+                0x0002313c                UART_Transmitter
+ .text.Delay    0x0002318c       0x2c ./Source/Driver/UART/UART.o
+                0x0002318c                Delay
+ .text.UART_Receive
+                0x000231b8       0x40 ./Source/Driver/UART/UART.o
+                0x000231b8                UART_Receive
+ .text.UART_RxReady
+                0x000231f8       0x38 ./Source/Driver/UART/UART.o
+                0x000231f8                UART_RxReady
+ .text.mutex_lock
+                0x00023230       0x58 ./Source/MIRTOS/src/mirtos.mutex.o
+                0x00023230                mutex_lock
+ .text.mutex_unlock
+                0x00023288       0x1e ./Source/MIRTOS/src/mirtos.mutex.o
+                0x00023288                mutex_unlock
+ *fill*         0x000232a6        0x2 
+ .text.OS_init  0x000232a8       0x40 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x000232a8                OS_init
+ .text.OSThread_start
+                0x000232e8      0x170 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x000232e8                OSThread_start
+ .text.OS_run   0x00023458       0x28 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x00023458                OS_run
+ .text.OS_sched
+                0x00023480       0x9c ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x00023480                OS_sched
+ .text.SysTick_Handler
+                0x0002351c       0x28 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x0002351c                SysTick_Handler
+ .text.PendSV_Handler
+                0x00023544       0x38 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x00023544                PendSV_Handler
+ .text.OS_Error
+                0x0002357c       0x10 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x0002357c                OS_Error
+ .text.OS_idle_thread
+                0x0002358c        0xa ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x0002358c                OS_idle_thread
+ *fill*         0x00023596        0x2 
+ .text.OS_onIdle
+                0x00023598       0x14 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x00023598                OS_onIdle
+ .text.OS_tick  0x000235ac       0x74 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x000235ac                OS_tick
+ .text.OS_delay
+                0x00023620       0x5c ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x00023620                OS_delay
+ .text.disable_irq
+                0x0002367c        0xe ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x0002367c                disable_irq
+ .text.enable_irq
+                0x0002368a        0xe ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x0002368a                enable_irq
+ .text.MCP3208  0x00023698      0x118 ./Source/Middleware/MCP3208/MCP3208.o
+                0x00023698                MCP3208
+ .text.ssd1306_init
+                0x000237b0       0xd6 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000237b0                ssd1306_init
+ .text.ssd1306_command
+                0x00023886       0x1e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023886                ssd1306_command
+ .text.ssd1306_data
+                0x000238a4       0x1e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000238a4                ssd1306_data
+ *fill*         0x000238c2        0x2 
+ .text.ssd1306_setcursor
+                0x000238c4       0x64 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000238c4                ssd1306_setcursor
+ .text.ssd1306_Print_String
+                0x00023928       0xe8 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023928                ssd1306_Print_String
+ .text.ssd1306_clear
+                0x00023a10       0x34 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023a10                ssd1306_clear
+ .text.ssd1306_refresh
+                0x00023a44       0x3c ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023a44                ssd1306_refresh
+ .text.ssd1306_buffer_flush
+                0x00023a80       0x1e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023a80                ssd1306_buffer_flush
+ *fill*         0x00023a9e        0x2 
+ .text.ssd1306_draw_pixel
+                0x00023aa0       0xa4 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023aa0                ssd1306_draw_pixel
+ .text.ssd1306_draw_line
+                0x00023b44      0x110 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023b44                ssd1306_draw_line
+ .text.ssd1306_set_text_size
+                0x00023c54       0x34 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023c54                ssd1306_set_text_size
+ .text.ssd1306_shiva_logo
+                0x00023c88       0x3c ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023c88                ssd1306_shiva_logo
+ .text.ssd1306_fill_rect
+                0x00023cc4       0x78 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023cc4                ssd1306_fill_rect
+ .text.ssd1306_DrawRect
+                0x00023d3c       0xa8 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023d3c                ssd1306_DrawRect
+ .text.ssd1306_SetDrawWindow
+                0x00023de4       0x5a ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023de4                ssd1306_SetDrawWindow
+ .text.ssd1306_set_display_mode
+                0x00023e3e       0x40 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023e3e                ssd1306_set_display_mode
+ .text.ssd1306_DrawCircle
+                0x00023e7e      0x182 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00023e7e                ssd1306_DrawCircle
+ .text.ssd1306_clear_refresh
+                0x00024000       0x4e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00024000                ssd1306_clear_refresh
+ .text.process_get_data
+                0x0002404e       0x24 ./Source/Middleware/RTC_DS3231/DS3231.o
+ *fill*         0x00024072        0x2 
+ .text.process_set_data
+                0x00024074       0x34 ./Source/Middleware/RTC_DS3231/DS3231.o
+ .text.ds3231_read_sec
+                0x000240a8       0x2a ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x000240a8                ds3231_read_sec
+ .text.ds3231_write_sec
+                0x000240d2       0x2a ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x000240d2                ds3231_write_sec
+ .text.ds3231_read_min
+                0x000240fc       0x2a ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x000240fc                ds3231_read_min
+ .text.ds3231_write_min
+                0x00024126       0x2a ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x00024126                ds3231_write_min
+ .text.ds3231_read_hrs
+                0x00024150       0x2a ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x00024150                ds3231_read_hrs
+ .text.ds3231_write_hrs
+                0x0002417a       0x2a ./Source/Middleware/RTC_DS3231/DS3231.o
+                0x0002417a                ds3231_write_hrs
+ .text.exit     0x000241a4       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                0x000241a4                exit
+ .text.__libc_init_array
+                0x000241c4       0x48 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                0x000241c4                __libc_init_array
+ .text.memset   0x0002420c       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                0x0002420c                memset
+ .text.startup.register_fini
+                0x000242ac       0x14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x000242c0       0xc4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x000242c0                __call_exitprocs
+ .text.atexit   0x00024384        0xc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                0x00024384                atexit
+ .text.__libc_fini_array
+                0x00024390       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                0x00024390                __libc_fini_array
+ .text.__retarget_lock_init
+                0x000243bc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243bc                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x000243c0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243c0                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x000243c4        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243c4                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x000243c8        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243c8                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x000243cc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243cc                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x000243d0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243d0                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x000243d4        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243d4                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x000243d8        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243d8                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x000243dc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243dc                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x000243e0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x000243e0                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x000243e4       0x8c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                0x000243e4                __register_exitproc
+ .text._exit    0x00024470        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                0x00024470                _exit
+ *(.rodata)
+ .rodata        0x00024474       0x18 ./Source/App/Main/main.o
+ .rodata        0x0002448c        0xe ./Source/BSP/startup_tm4c_gnu.o
+ *fill*         0x0002449a        0x2 
+ .rodata        0x0002449c       0x43 ./Source/MIRTOS/src/mirtos_scheduler.o
+ *(.rodata*)
+ *fill*         0x000244df        0x1 
+ .rodata.MSG_Obj
+                0x000244e0       0x14 ./Source/Driver/CAN/CAN_Driver.o
+                0x000244e0                MSG_Obj
+ .rodata.PORT   0x000244f4       0x18 ./Source/Driver/GPIO/GPIOdriver.o
+                0x000244f4                PORT
+ .rodata.font_width
+                0x0002450c        0x1 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x0002450c                font_width
+ *fill*         0x0002450d        0x3 
+ .rodata.font_5x8
+                0x00024510      0x2a0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00024510                font_5x8
+ .rodata.shiva_logo
+                0x000247b0      0x400 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000247b0                shiva_logo
+ .rodata._global_impure_ptr
+                0x00024bb0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x00024bb0                _global_impure_ptr
+ *(.init)
+ .init          0x00024bb4        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00024bb4                _init
+ .init          0x00024bb8        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x00024bc0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x00024bc0                _fini
+ .fini          0x00024bc4        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+                0x00024bcc                . = ALIGN (0x4)
+
+.glue_7         0x00024bcc        0x0
+ .glue_7        0x00024bcc        0x0 linker stubs
+
+.glue_7t        0x00024bcc        0x0
+ .glue_7t       0x00024bcc        0x0 linker stubs
+
+.vfp11_veneer   0x00024bcc        0x0
+ .vfp11_veneer  0x00024bcc        0x0 linker stubs
+
+.v4_bx          0x00024bcc        0x0
+ .v4_bx         0x00024bcc        0x0 linker stubs
+
+.iplt           0x00024bcc        0x0
+ .iplt          0x00024bcc        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rel.dyn        0x00024bcc        0x0
+ .rel.iplt      0x00024bcc        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.preinit_array  0x00024bcc        0x0
+                0x00024bcc                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x00024bcc                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x00024bcc        0x8
+                0x00024bcc                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x00024bcc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x00024bd0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x00024bd4                PROVIDE (__init_array_end = .)
+
+.fini_array     0x00024bd4        0x4
+                0x00024bd4                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x00024bd4        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                0x00024bd8                PROVIDE (__fini_array_end = .)
+                0x00024bd8                _etext = .
+
+.data           0x20004000      0x4ec load address 0x00024bd8
+                0x00024bd8                __data_load__ = LOADADDR (.data)
+                0x20004000                __data_start__ = .
+ *(.data)
+ .data          0x20004000        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x20004000        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20004000                __dso_handle
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x20004004        0x0 ./Source/App/Main/main.o
+ .data          0x20004004        0x0 ./Source/BSP/bsp.o
+ .data          0x20004004        0x0 ./Source/BSP/startup_tm4c_gnu.o
+ .data          0x20004004        0x0 ./Source/Driver/ADC/ADC_Driver.o
+ .data          0x20004004        0x0 ./Source/Driver/CAN/CAN_Driver.o
+ .data          0x20004004        0x0 ./Source/Driver/GPIO/GPIOdriver.o
+ .data          0x20004004        0x0 ./Source/Driver/I2C/I2C.o
+ .data          0x20004004        0x0 ./Source/Driver/LCD/LCD.o
+ .data          0x20004004        0x0 ./Source/Driver/SPI/SPI.o
+ .data          0x20004004        0x0 ./Source/Driver/Timer/Timer.o
+ .data          0x20004004        0x0 ./Source/Driver/Timer/timercnter.o
+ .data          0x20004004        0x0 ./Source/Driver/UART/UART.o
+ .data          0x20004004        0x0 ./Source/MIRTOS/src/mirtos.mutex.o
+ .data          0x20004004        0x0 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .data          0x20004004        0x0 ./Source/Middleware/MCP3208/MCP3208.o
+ .data          0x20004004        0x0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .data          0x20004004        0x0 ./Source/Middleware/RTC_DS3231/DS3231.o
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x20004004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.data*)
+ .data.CAN_Data_0x010
+                0x20004004        0x8 ./Source/Driver/CAN/CAN_Driver.o
+                0x20004004                CAN_Data_0x010
+ .data.CAN_Data_0x100
+                0x2000400c        0x5 ./Source/Driver/CAN/CAN_Driver.o
+                0x2000400c                CAN_Data_0x100
+ *fill*         0x20004011        0x3 
+ .data.CAN_Data_0x200
+                0x20004014        0x8 ./Source/Driver/CAN/CAN_Driver.o
+                0x20004014                CAN_Data_0x200
+ .data.CAN_Data_0x3C2
+                0x2000401c        0x7 ./Source/Driver/CAN/CAN_Driver.o
+                0x2000401c                CAN_Data_0x3C2
+ *fill*         0x20004023        0x1 
+ .data.CAN_Data_0x500
+                0x20004024        0x1 ./Source/Driver/CAN/CAN_Driver.o
+                0x20004024                CAN_Data_0x500
+ *fill*         0x20004025        0x3 
+ .data.I2C_config
+                0x20004028       0x30 ./Source/Driver/I2C/I2C.o
+                0x20004028                I2C_config
+ .data.UART_config
+                0x20004058       0x60 ./Source/Driver/UART/UART.o
+                0x20004058                UART_config
+ .data._impure_ptr
+                0x200040b8        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x200040b8                _impure_ptr
+ *fill*         0x200040bc        0x4 
+ .data.impure_data
+                0x200040c0      0x428 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x200044e8        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x200044e8                __atexit_recursive_mutex
+                0x200044ec                . = ALIGN (0x4)
+                0x200044ec                __data_end__ = .
+                0x200044ec                _edata = __data_end__
+
+.igot.plt       0x200044ec        0x0 load address 0x000250c4
+ .igot.plt      0x200044ec        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.bss            0x200044ec      0x804 load address 0x000250c4
+                0x200044ec                __bss_start__ = .
+ *(.bss)
+ .bss           0x200044ec        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x200044ec       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x20004508        0x0 ./Source/App/Main/main.o
+ .bss           0x20004508        0x0 ./Source/BSP/bsp.o
+ .bss           0x20004508        0x0 ./Source/BSP/startup_tm4c_gnu.o
+ .bss           0x20004508        0x0 ./Source/Driver/ADC/ADC_Driver.o
+ .bss           0x20004508        0x0 ./Source/Driver/CAN/CAN_Driver.o
+ .bss           0x20004508        0x0 ./Source/Driver/GPIO/GPIOdriver.o
+ .bss           0x20004508        0x0 ./Source/Driver/I2C/I2C.o
+ .bss           0x20004508        0x0 ./Source/Driver/LCD/LCD.o
+ .bss           0x20004508        0x0 ./Source/Driver/SPI/SPI.o
+ .bss           0x20004508        0x0 ./Source/Driver/Timer/Timer.o
+ .bss           0x20004508        0x0 ./Source/Driver/Timer/timercnter.o
+ .bss           0x20004508        0x0 ./Source/Driver/UART/UART.o
+ .bss           0x20004508        0x0 ./Source/MIRTOS/src/mirtos.mutex.o
+ .bss           0x20004508        0x0 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .bss           0x20004508        0x0 ./Source/Middleware/MCP3208/MCP3208.o
+ .bss           0x20004508        0x0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .bss           0x20004508        0x0 ./Source/Middleware/RTC_DS3231/DS3231.o
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x20004508        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.bss*)
+ .bss.ADC_port_Flag
+                0x20004508        0xc ./Source/Driver/ADC/ADC_Driver.o
+ .bss.ADC_Init_Flag
+                0x20004514        0x1 ./Source/Driver/ADC/ADC_Driver.o
+ .bss.CAN0_Init_Flag
+                0x20004515        0x1 ./Source/Driver/CAN/CAN_Driver.o
+ *fill*         0x20004516        0x2 
+ .bss.Port_IO_flag
+                0x20004518        0x6 ./Source/Driver/GPIO/GPIOdriver.o
+ .bss.GPIO_Init_flag
+                0x2000451e        0x1 ./Source/Driver/GPIO/GPIOdriver.o
+ *fill*         0x2000451f        0x1 
+ .bss.I2C_Index
+                0x20004520        0x4 ./Source/Driver/I2C/I2C.o
+ .bss.error_code
+                0x20004524        0x4 ./Source/Driver/I2C/I2C.o
+ .bss.I2C_Init_Flag
+                0x20004528        0x1 ./Source/Driver/I2C/I2C.o
+ *fill*         0x20004529        0x3 
+ .bss.I2C_TPR   0x2000452c        0x4 ./Source/Driver/I2C/I2C.o
+ .bss.I2C_is_first_data
+                0x20004530        0x1 ./Source/Driver/I2C/I2C.o
+ .bss.SPI_2_Init_Flag
+                0x20004531        0x1 ./Source/Driver/SPI/SPI.o
+ *fill*         0x20004532        0x2 
+ .bss.Timer_Flag
+                0x20004534        0x1 ./Source/Driver/Timer/Timer.o
+                0x20004534                Timer_Flag
+ .bss.Timer0_Init_flag
+                0x20004535        0x1 ./Source/Driver/Timer/Timer.o
+ .bss.Count_20ms
+                0x20004536        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_30ms
+                0x20004538        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_50ms
+                0x2000453a        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_100ms
+                0x2000453c        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_200ms
+                0x2000453e        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_500ms
+                0x20004540        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_1000ms
+                0x20004542        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_2000ms
+                0x20004544        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.lock      0x20004546        0x1 ./Source/Driver/UART/UART.o
+                0x20004546                lock
+ .bss.UART_Init_Flag
+                0x20004547        0x1 ./Source/Driver/UART/UART.o
+ .bss.UART_Index
+                0x20004548        0x4 ./Source/Driver/UART/UART.o
+ .bss.BaudRate_Integer
+                0x2000454c        0x4 ./Source/Driver/UART/UART.o
+ .bss.BaudRate_Float
+                0x20004550        0x4 ./Source/Driver/UART/UART.o
+ .bss.OS_currIdx_period
+                0x20004554        0x1 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x20004554                OS_currIdx_period
+ .bss.OS_threadNum
+                0x20004555        0x1 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x20004555                OS_threadNum
+ .bss.OS_currIdx
+                0x20004556        0x1 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x20004556                OS_currIdx
+ *fill*         0x20004557        0x1 
+ .bss.OS_readySet
+                0x20004558        0x4 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x20004558                OS_readySet
+ .bss.MCP3208_Rec_data
+                0x2000455c       0x20 ./Source/Middleware/MCP3208/MCP3208.o
+                0x2000455c                MCP3208_Rec_data
+ .bss.channel_no
+                0x2000457c        0x1 ./Source/Middleware/MCP3208/MCP3208.o
+ *fill*         0x2000457d        0x3 
+ .bss.temp_rev_data.6430
+                0x20004580        0x4 ./Source/Middleware/MCP3208/MCP3208.o
+ .bss.temp_rev_byte.6428
+                0x20004584        0x1 ./Source/Middleware/MCP3208/MCP3208.o
+ .bss.temp_send_byte.6429
+                0x20004585        0x1 ./Source/Middleware/MCP3208/MCP3208.o
+ .bss.ssd1306_current_col
+                0x20004586        0x1 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x20004586                ssd1306_current_col
+ .bss.ssd1306_current_page
+                0x20004587        0x1 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x20004587                ssd1306_current_page
+ *(COMMON)
+ COMMON         0x20004588      0x1fc ./Source/App/Main/main.o
+                0x20004588                intreg
+                0x2000458c                led1_thread
+                0x20004594                stack_led2
+                0x20004634                led2_thread
+                0x2000463c                led3_thread
+                0x20004644                stack_led1
+                0x200046e4                stack_led3
+ COMMON         0x20004784        0xe ./Source/Driver/LCD/LCD.o
+                0x20004784                D5_data
+                0x20004785                EN
+                0x20004786                D6_data
+                0x20004787                D2_data
+                0x20004788                D1_data
+                0x20004789                D3_data
+                0x2000478a                D7_data
+                0x2000478b                D4_data
+                0x2000478c                D5
+                0x2000478d                D4
+                0x2000478e                D7
+                0x2000478f                RS
+                0x20004790                D6
+                0x20004791                D0_data
+ *fill*         0x20004792        0x2 
+ COMMON         0x20004794        0x4 ./Source/Driver/UART/UART.o
+                0x20004794                temp
+ COMMON         0x20004798      0x134 ./Source/MIRTOS/src/mirtos_scheduler.o
+                0x20004798                OS_Thread
+                0x2000481c                stack_idle
+                0x200048bc                idle_thread
+                0x200048c4                OS_next
+                0x200048c8                OS_curr
+ COMMON         0x200048cc      0x400 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x200048cc                ssd1306_buffer
+ COMMON         0x20004ccc       0x21 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x20004ccc                __lock___atexit_recursive_mutex
+                0x20004cd0                __lock___arc4random_mutex
+                0x20004cd4                __lock___env_recursive_mutex
+                0x20004cd8                __lock___sinit_recursive_mutex
+                0x20004cdc                __lock___malloc_recursive_mutex
+                0x20004ce0                __lock___at_quick_exit_mutex
+                0x20004ce4                __lock___dd_hash_mutex
+                0x20004ce8                __lock___tz_mutex
+                0x20004cec                __lock___sfp_recursive_mutex
+                0x20004cf0                . = ALIGN (0x4)
+ *fill*         0x20004ced        0x3 
+                0x20004cf0                _ebss = .
+                0x20004cf0                __bss_end__ = .
+                [!provide]                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+                [!provide]                PROVIDE (__end__ = _ebss)
+
+.heap           0x20004cf0      0x400 load address 0x000258c8
+                0x20004cf0                __heap_start__ = .
+                0x200050f0                . = (. + HEAP_SIZE)
+ *fill*         0x20004cf0      0x400 
+                0x200050f0                . = ALIGN (0x4)
+                0x200050f0                __heap_end__ = .
+
+.stack          0x200050f0     0x1000 load address 0x00025cc8
+                0x200050f0                __stack_start__ = .
+                0x200060f0                . = (. + STACK_SIZE)
+ *fill*         0x200050f0     0x1000 
+                0x200060f0                . = ALIGN (0x4)
+                0x200060f0                __stack_end__ = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+START GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(Application.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000068       0x2e ./Source/App/Main/main.o
+ .ARM.attributes
+                0x00000096       0x2e ./Source/BSP/bsp.o
+ .ARM.attributes
+                0x000000c4       0x2e ./Source/BSP/startup_tm4c_gnu.o
+ .ARM.attributes
+                0x000000f2       0x2e ./Source/Driver/ADC/ADC_Driver.o
+ .ARM.attributes
+                0x00000120       0x2e ./Source/Driver/CAN/CAN_Driver.o
+ .ARM.attributes
+                0x0000014e       0x2e ./Source/Driver/GPIO/GPIOdriver.o
+ .ARM.attributes
+                0x0000017c       0x2e ./Source/Driver/I2C/I2C.o
+ .ARM.attributes
+                0x000001aa       0x2e ./Source/Driver/LCD/LCD.o
+ .ARM.attributes
+                0x000001d8       0x2e ./Source/Driver/SPI/SPI.o
+ .ARM.attributes
+                0x00000206       0x2e ./Source/Driver/Timer/Timer.o
+ .ARM.attributes
+                0x00000234       0x2e ./Source/Driver/Timer/timercnter.o
+ .ARM.attributes
+                0x00000262       0x2e ./Source/Driver/UART/UART.o
+ .ARM.attributes
+                0x00000290       0x2e ./Source/MIRTOS/src/mirtos.mutex.o
+ .ARM.attributes
+                0x000002be       0x2e ./Source/MIRTOS/src/mirtos_scheduler.o
+ .ARM.attributes
+                0x000002ec       0x2e ./Source/Middleware/MCP3208/MCP3208.o
+ .ARM.attributes
+                0x0000031a       0x2e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .ARM.attributes
+                0x00000348       0x2e ./Source/Middleware/RTC_DS3231/DS3231.o
+ .ARM.attributes
+                0x00000376       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000003a4       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x000003d2       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./Source/App/Main/main.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a ./Source/BSP/bsp.o
+ .comment       0x00000079       0x7a ./Source/BSP/startup_tm4c_gnu.o
+ .comment       0x00000079       0x7a ./Source/Driver/ADC/ADC_Driver.o
+ .comment       0x00000079       0x7a ./Source/Driver/CAN/CAN_Driver.o
+ .comment       0x00000079       0x7a ./Source/Driver/GPIO/GPIOdriver.o
+ .comment       0x00000079       0x7a ./Source/Driver/I2C/I2C.o
+ .comment       0x00000079       0x7a ./Source/Driver/LCD/LCD.o
+ .comment       0x00000079       0x7a ./Source/Driver/SPI/SPI.o
+ .comment       0x00000079       0x7a ./Source/Driver/Timer/Timer.o
+ .comment       0x00000079       0x7a ./Source/Driver/Timer/timercnter.o
+ .comment       0x00000079       0x7a ./Source/Driver/UART/UART.o
+ .comment       0x00000079       0x7a ./Source/MIRTOS/src/mirtos.mutex.o
+ .comment       0x00000079       0x7a ./Source/MIRTOS/src/mirtos_scheduler.o
+ .comment       0x00000079       0x7a ./Source/Middleware/MCP3208/MCP3208.o
+ .comment       0x00000079       0x7a ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .comment       0x00000079       0x7a ./Source/Middleware/RTC_DS3231/DS3231.o
+
+.debug_info     0x00000000     0xc7bb
+ .debug_info    0x00000000      0xe75 ./Source/App/Main/main.o
+ .debug_info    0x00000e75      0x4e4 ./Source/BSP/bsp.o
+ .debug_info    0x00001359      0x193 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_info    0x000014ec     0x15a3 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_info    0x00002a8f     0x153b ./Source/Driver/CAN/CAN_Driver.o
+ .debug_info    0x00003fca     0x11ba ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_info    0x00005184     0x1641 ./Source/Driver/I2C/I2C.o
+ .debug_info    0x000067c5      0x799 ./Source/Driver/LCD/LCD.o
+ .debug_info    0x00006f5e     0x11d3 ./Source/Driver/SPI/SPI.o
+ .debug_info    0x00008131     0x10bf ./Source/Driver/Timer/Timer.o
+ .debug_info    0x000091f0      0xf5d ./Source/Driver/Timer/timercnter.o
+ .debug_info    0x0000a14d     0x13cf ./Source/Driver/UART/UART.o
+ .debug_info    0x0000b51c      0x271 ./Source/MIRTOS/src/mirtos.mutex.o
+ .debug_info    0x0000b78d      0x433 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .debug_info    0x0000bbc0      0x1e1 ./Source/Middleware/MCP3208/MCP3208.o
+ .debug_info    0x0000bda1      0x75a ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_info    0x0000c4fb      0x2c0 ./Source/Middleware/RTC_DS3231/DS3231.o
+
+.debug_abbrev   0x00000000     0x1b66
+ .debug_abbrev  0x00000000      0x23a ./Source/App/Main/main.o
+ .debug_abbrev  0x0000023a      0x181 ./Source/BSP/bsp.o
+ .debug_abbrev  0x000003bb       0xf4 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_abbrev  0x000004af      0x19d ./Source/Driver/ADC/ADC_Driver.o
+ .debug_abbrev  0x0000064c      0x1d2 ./Source/Driver/CAN/CAN_Driver.o
+ .debug_abbrev  0x0000081e      0x196 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_abbrev  0x000009b4      0x2cf ./Source/Driver/I2C/I2C.o
+ .debug_abbrev  0x00000c83      0x200 ./Source/Driver/LCD/LCD.o
+ .debug_abbrev  0x00000e83      0x1a4 ./Source/Driver/SPI/SPI.o
+ .debug_abbrev  0x00001027      0x17a ./Source/Driver/Timer/Timer.o
+ .debug_abbrev  0x000011a1      0x133 ./Source/Driver/Timer/timercnter.o
+ .debug_abbrev  0x000012d4      0x24b ./Source/Driver/UART/UART.o
+ .debug_abbrev  0x0000151f      0x100 ./Source/MIRTOS/src/mirtos.mutex.o
+ .debug_abbrev  0x0000161f      0x1dc ./Source/MIRTOS/src/mirtos_scheduler.o
+ .debug_abbrev  0x000017fb       0xc1 ./Source/Middleware/MCP3208/MCP3208.o
+ .debug_abbrev  0x000018bc      0x1b4 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_abbrev  0x00001a70       0xf6 ./Source/Middleware/RTC_DS3231/DS3231.o
+
+.debug_aranges  0x00000000      0x558
+ .debug_aranges
+                0x00000000       0x38 ./Source/App/Main/main.o
+ .debug_aranges
+                0x00000038       0x30 ./Source/BSP/bsp.o
+ .debug_aranges
+                0x00000068       0x50 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_aranges
+                0x000000b8       0x38 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_aranges
+                0x000000f0       0x38 ./Source/Driver/CAN/CAN_Driver.o
+ .debug_aranges
+                0x00000128       0x30 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_aranges
+                0x00000158       0xa8 ./Source/Driver/I2C/I2C.o
+ .debug_aranges
+                0x00000200       0x78 ./Source/Driver/LCD/LCD.o
+ .debug_aranges
+                0x00000278       0x40 ./Source/Driver/SPI/SPI.o
+ .debug_aranges
+                0x000002b8       0x48 ./Source/Driver/Timer/Timer.o
+ .debug_aranges
+                0x00000300       0x48 ./Source/Driver/Timer/timercnter.o
+ .debug_aranges
+                0x00000348       0x48 ./Source/Driver/UART/UART.o
+ .debug_aranges
+                0x00000390       0x28 ./Source/MIRTOS/src/mirtos.mutex.o
+ .debug_aranges
+                0x000003b8       0x80 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .debug_aranges
+                0x00000438       0x20 ./Source/Middleware/MCP3208/MCP3208.o
+ .debug_aranges
+                0x00000458       0xa8 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_aranges
+                0x00000500       0x58 ./Source/Middleware/RTC_DS3231/DS3231.o
+
+.debug_ranges   0x00000000      0x460
+ .debug_ranges  0x00000000       0x28 ./Source/App/Main/main.o
+ .debug_ranges  0x00000028       0x20 ./Source/BSP/bsp.o
+ .debug_ranges  0x00000048       0x40 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_ranges  0x00000088       0x28 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_ranges  0x000000b0       0x28 ./Source/Driver/CAN/CAN_Driver.o
+ .debug_ranges  0x000000d8       0x20 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_ranges  0x000000f8       0x98 ./Source/Driver/I2C/I2C.o
+ .debug_ranges  0x00000190       0x68 ./Source/Driver/LCD/LCD.o
+ .debug_ranges  0x000001f8       0x30 ./Source/Driver/SPI/SPI.o
+ .debug_ranges  0x00000228       0x38 ./Source/Driver/Timer/Timer.o
+ .debug_ranges  0x00000260       0x38 ./Source/Driver/Timer/timercnter.o
+ .debug_ranges  0x00000298       0x38 ./Source/Driver/UART/UART.o
+ .debug_ranges  0x000002d0       0x18 ./Source/MIRTOS/src/mirtos.mutex.o
+ .debug_ranges  0x000002e8       0x70 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .debug_ranges  0x00000358       0x10 ./Source/Middleware/MCP3208/MCP3208.o
+ .debug_ranges  0x00000368       0xb0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_ranges  0x00000418       0x48 ./Source/Middleware/RTC_DS3231/DS3231.o
+
+.debug_line     0x00000000     0x3b1f
+ .debug_line    0x00000000      0x3a1 ./Source/App/Main/main.o
+ .debug_line    0x000003a1      0x270 ./Source/BSP/bsp.o
+ .debug_line    0x00000611      0x135 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_line    0x00000746      0x388 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_line    0x00000ace      0x426 ./Source/Driver/CAN/CAN_Driver.o
+ .debug_line    0x00000ef4      0x35c ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_line    0x00001250      0x62b ./Source/Driver/I2C/I2C.o
+ .debug_line    0x0000187b      0x45f ./Source/Driver/LCD/LCD.o
+ .debug_line    0x00001cda      0x363 ./Source/Driver/SPI/SPI.o
+ .debug_line    0x0000203d      0x300 ./Source/Driver/Timer/Timer.o
+ .debug_line    0x0000233d      0x235 ./Source/Driver/Timer/timercnter.o
+ .debug_line    0x00002572      0x416 ./Source/Driver/UART/UART.o
+ .debug_line    0x00002988      0x22e ./Source/MIRTOS/src/mirtos.mutex.o
+ .debug_line    0x00002bb6      0x431 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .debug_line    0x00002fe7      0x276 ./Source/Middleware/MCP3208/MCP3208.o
+ .debug_line    0x0000325d      0x644 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_line    0x000038a1      0x27e ./Source/Middleware/RTC_DS3231/DS3231.o
+
+.debug_str      0x00000000     0x215d
+ .debug_str     0x00000000      0x81e ./Source/App/Main/main.o
+                                0x8cb (size before relaxing)
+ .debug_str     0x0000081e       0xb9 ./Source/BSP/bsp.o
+                                0x408 (size before relaxing)
+ .debug_str     0x000008d7      0x127 ./Source/BSP/startup_tm4c_gnu.o
+                                0x248 (size before relaxing)
+ .debug_str     0x000009fe      0x764 ./Source/Driver/ADC/ADC_Driver.o
+                                0xa83 (size before relaxing)
+ .debug_str     0x00001162      0x283 ./Source/Driver/CAN/CAN_Driver.o
+                                0xbca (size before relaxing)
+ .debug_str     0x000013e5       0x8f ./Source/Driver/GPIO/GPIOdriver.o
+                                0x943 (size before relaxing)
+ .debug_str     0x00001474      0x2ef ./Source/Driver/I2C/I2C.o
+                                0xb75 (size before relaxing)
+ .debug_str     0x00001763      0x13e ./Source/Driver/LCD/LCD.o
+                                0x488 (size before relaxing)
+ .debug_str     0x000018a1       0x96 ./Source/Driver/SPI/SPI.o
+                                0x920 (size before relaxing)
+ .debug_str     0x00001937      0x143 ./Source/Driver/Timer/Timer.o
+                                0xa41 (size before relaxing)
+ .debug_str     0x00001a7a       0xa8 ./Source/Driver/Timer/timercnter.o
+                                0x92b (size before relaxing)
+ .debug_str     0x00001b22      0x15a ./Source/Driver/UART/UART.o
+                                0xacc (size before relaxing)
+ .debug_str     0x00001c7c       0x3c ./Source/MIRTOS/src/mirtos.mutex.o
+                                0x372 (size before relaxing)
+ .debug_str     0x00001cb8       0xfd ./Source/MIRTOS/src/mirtos_scheduler.o
+                                0x433 (size before relaxing)
+ .debug_str     0x00001db5       0x76 ./Source/Middleware/MCP3208/MCP3208.o
+                                0x334 (size before relaxing)
+ .debug_str     0x00001e2b      0x20c ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                                0x519 (size before relaxing)
+ .debug_str     0x00002037      0x126 ./Source/Middleware/RTC_DS3231/DS3231.o
+                                0x3c4 (size before relaxing)
+
+.debug_frame    0x00000000     0x10c4
+ .debug_frame   0x00000000       0x80 ./Source/App/Main/main.o
+ .debug_frame   0x00000080       0x58 ./Source/BSP/bsp.o
+ .debug_frame   0x000000d8       0x94 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_frame   0x0000016c       0xa4 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_frame   0x00000210       0xac ./Source/Driver/CAN/CAN_Driver.o
+ .debug_frame   0x000002bc       0x78 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_frame   0x00000334      0x294 ./Source/Driver/I2C/I2C.o
+ .debug_frame   0x000005c8      0x1a8 ./Source/Driver/LCD/LCD.o
+ .debug_frame   0x00000770       0xb0 ./Source/Driver/SPI/SPI.o
+ .debug_frame   0x00000820       0xcc ./Source/Driver/Timer/Timer.o
+ .debug_frame   0x000008ec       0xd8 ./Source/Driver/Timer/timercnter.o
+ .debug_frame   0x000009c4       0xf4 ./Source/Driver/UART/UART.o
+ .debug_frame   0x00000ab8       0x58 ./Source/MIRTOS/src/mirtos.mutex.o
+ .debug_frame   0x00000b10      0x198 ./Source/MIRTOS/src/mirtos_scheduler.o
+ .debug_frame   0x00000ca8       0x2c ./Source/Middleware/MCP3208/MCP3208.o
+ .debug_frame   0x00000cd4      0x298 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_frame   0x00000f6c      0x138 ./Source/Middleware/RTC_DS3231/DS3231.o
+ .debug_frame   0x000010a4       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
