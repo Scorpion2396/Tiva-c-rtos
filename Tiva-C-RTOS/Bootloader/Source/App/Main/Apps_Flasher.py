@@ -17,7 +17,7 @@ class Form1:
         self.txtFilePath = tk.Entry(root, width=50)
         self.txtFilePath.grid(row=0, column=1, columnspan=3)
 
-        self.btnSelectFile = tk.Button(root, text="Select File", command=self.select_file)
+        self.btnSelectFile = tk.Button(root, text="Select File", command=self.select_file, bg='lightblue', fg='black')
         self.btnSelectFile.grid(row=0, column=4)
 
         self.label2 = tk.Label(root, text="COM Port:")
@@ -67,7 +67,8 @@ class Form1:
         return ports
 
     def select_file(self):
-        file_path = filedialog.askopenfilename()
+        file_path = filedialog.askopenfilename(
+            filetypes = [("Binary Files", "*.bin")])
         if file_path:
             self.txtFilePath.delete(0, tk.END)
             self.txtFilePath.insert(0, file_path)

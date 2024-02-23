@@ -56,30 +56,33 @@ uint8_t downloadNflashApps()
     ssd1306_setcursor(0,0);
     ssd1306_Print_String(str1);
 
-
-    err = FlashErase(Apps_start_Addr, (rx_app_size/4));
-    if(err == 0)
-        return err;
-
 //ack-back
     UART_Transmit(0x55);
 
 
-// receiving apps packet size in bytes as second 4 bytes	
-	for(rx_cnt = 0 ; rx_cnt < 4 ; rx_cnt++)
+// receiving apps packet size in bytes as second 4 bytes
+    for(rx_cnt = 0 ; rx_cnt < 4 ; rx_cnt++)
     {
         temp1[rx_cnt] = UART_Receive();
     }
 
     apps_packet_size  = (uint32_t)((temp1[3]<<24) | (temp1[2]<<16) | (temp1[1]<<8) | (temp1[0]<<0));
-	
-	app_bin_size            = rx_app_size;
+
+    app_bin_size            = rx_app_size;
     no_of_blocks            = app_bin_size / apps_packet_size ;
     no_of_bytes_rem         = app_bin_size % apps_packet_size ;
-	
+
 //ack-back
-	if(apps_packet_size <= MAX_APPS_PACKET_SIZE)
-		UART_Transmit(0x55);	
+    if(apps_packet_size <= MAX_APPS_PACKET_SIZE)
+    {
+        err = FlashErase(Apps_start_Addr, (rx_app_size/4));
+        if(err == 0)
+        {
+            return err;
+        }
+
+        UART_Transmit(0x55);
+    }
 
 
     for(block_cnt = 0 ; block_cnt < no_of_blocks ; block_cnt++)
