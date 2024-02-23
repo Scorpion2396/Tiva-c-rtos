@@ -24,7 +24,6 @@
 #define APPS_RESET_HANDLER_ADDR  APPS_FLASH_START_ADDR + 4
 #define APPS_INVALID             0xFFFFFFFF
 
-#define apps_packet_size         1024  // no. of bytes
 
 /******************************************************************************/
 typedef void (*fun_ptr)(void);
