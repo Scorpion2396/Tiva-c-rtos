@@ -64,6 +64,8 @@ class Form1:
 
     def get_com_ports(self):
         ports = [port.device for port in serial.tools.list_ports.comports()]
+        if not ports:
+            return ["COMM_PORT_UNAVAILABLE"]
         return ports
 
     def select_file(self):
