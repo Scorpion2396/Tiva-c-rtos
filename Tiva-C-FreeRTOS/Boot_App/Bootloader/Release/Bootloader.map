@@ -1,0 +1,1546 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+                              ./Source/App/Main/AppsDownloader.o (sprintf)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o) (_svfprintf_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (_dtoa_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (_free_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (_localeconv_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (_malloc_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memchr.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (memchr)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o) (memcpy)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o) (__malloc_lock)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o) (_Balloc)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (frexp)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o) (_sbrk_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (strlen)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (strncpy)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (__ssprint_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o) (_calloc_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o) (__global_locale)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o) (__ascii_mbtowc)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o) (memmove)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o) (_realloc_r)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o) (errno)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strcmp.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o) (strcmp)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o) (__ascii_wctomb)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o) (_ctype_)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (__aeabi_dmul)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_fmul)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_dsub)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_ddiv)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpeq)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_unorddf2.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (__aeabi_dcmpun)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (__aeabi_d2iz)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_d2f)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_fadd)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              ./Source/Driver/UART/UART.o (__aeabi_f2uiz)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o) (__aeabi_uldivmod)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o) (_sbrk)
+c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                              c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___arc4random_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+errno               0x4               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+ssd1306_buffer      0x400             ./Source/Middleware/OLED_SSD1306/SSD1306.o
+temp                0x4               ./Source/Driver/UART/UART.o
+__lock___env_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___malloc_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___at_quick_exit_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .debug_frame   0x00000000       0x28 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .debug_frame   0x00000000       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x38 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x7c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+ .debug_frame   0x00000000       0x44 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .debug_frame   0x00000000       0x5c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x8c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+ .debug_frame   0x00000000       0x34 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x8c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+ .debug_frame   0x00000000       0xb0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0x4c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000       0x30 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+ .debug_frame   0x00000000      0x25c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+ .debug_frame   0x00000000       0x30 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+ .debug_frame   0x00000000       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .debug_frame   0x00000000       0x38 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .debug_frame   0x00000000       0x78 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .debug_frame   0x00000000       0x34 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x28 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+ .debug_frame   0x00000000       0x54 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+ .debug_frame   0x00000000       0x4c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+ .debug_frame   0x00000000       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+ .debug_frame   0x00000000       0x48 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+ .debug_frame   0x00000000       0x60 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000       0x68 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strcmp.o)
+ .debug_frame   0x00000000       0x3c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .debug_frame   0x00000000       0x30 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0xac c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x00000000       0x50 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x00000000       0xc4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .debug_frame   0x00000000       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_unorddf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_unorddf2.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .debug_frame   0x00000000       0x4c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.extab     0x00000000        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.exidx     0x00000000        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x00000000       0x34 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ROM              0x00000000         0x00020000         xr
+RAM              0x20000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD ./Source/App/Main/AppsDownloader.o
+LOAD ./Source/App/Main/main.o
+LOAD ./Source/BSP/bsp.o
+LOAD ./Source/BSP/startup_tm4c_gnu.o
+LOAD ./Source/Driver/ADC/ADC_Driver.o
+LOAD ./Source/Driver/FLASH/FLASH.o
+LOAD ./Source/Driver/GPIO/GPIOdriver.o
+LOAD ./Source/Driver/I2C/I2C.o
+LOAD ./Source/Driver/Timer/Timer.o
+LOAD ./Source/Driver/Timer/timercnter.o
+LOAD ./Source/Driver/UART/UART.o
+LOAD ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00001000                STACK_SIZE = 0x1000
+                0x00000000                HEAP_SIZE = 0x0
+
+.isr_vector     0x00000000      0x26c
+ *(.isr_vector)
+ .isr_vector    0x00000000      0x26c ./Source/BSP/startup_tm4c_gnu.o
+                0x00000000                g_pfnVectors
+                0x0000026c                . = ALIGN (0x4)
+
+.eh_frame       0x0000026c        0x4
+ .eh_frame      0x0000026c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x0000026c        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+
+.ARM.extab      0x00000270        0x0
+ .ARM.extab     0x00000270        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.ARM.exidx      0x00000270        0x8
+ .ARM.exidx     0x00000270        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+
+.text           0x00000280     0x9ff0
+                0x00000280                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000280        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x00000280       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x000002c0       0x74 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+                0x000002c0                _start
+                0x000002c0                _mainCRTStartup
+ .text          0x00000334        0x0 ./Source/App/Main/AppsDownloader.o
+ .text          0x00000334        0x0 ./Source/App/Main/main.o
+ .text          0x00000334        0x0 ./Source/BSP/bsp.o
+ .text          0x00000334        0x0 ./Source/BSP/startup_tm4c_gnu.o
+ .text          0x00000334        0x0 ./Source/Driver/ADC/ADC_Driver.o
+ .text          0x00000334        0x0 ./Source/Driver/FLASH/FLASH.o
+ .text          0x00000334        0x0 ./Source/Driver/GPIO/GPIOdriver.o
+ .text          0x00000334        0x0 ./Source/Driver/I2C/I2C.o
+ .text          0x00000334        0x0 ./Source/Driver/Timer/Timer.o
+ .text          0x00000334        0x0 ./Source/Driver/Timer/timercnter.o
+ .text          0x00000334        0x0 ./Source/Driver/UART/UART.o
+ .text          0x00000334        0x0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .text          0x00000334        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+ *fill*         0x00000334        0xc 
+ .text          0x00000340       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memchr.o)
+                0x00000340                memchr
+ .text          0x000003e0      0x134 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+                0x000003e0                memcpy
+ .text          0x00000514        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+ .text          0x00000514        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+ .text          0x00000514        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+ .text          0x00000514        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+ *fill*         0x00000514       0x2c 
+ .text          0x00000540       0xdc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+                0x00000540                strlen
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+ .text          0x0000061c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+ *fill*         0x0000061c        0x4 
+ .text          0x00000620      0x2dc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strcmp.o)
+                0x00000628                strcmp
+ .text          0x000008fc        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+ .text          0x000008fc        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .text          0x000008fc      0x254 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .text          0x00000b50      0x168 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                0x00000b50                __aeabi_fmul
+                0x00000b50                __mulsf3
+ .text          0x00000cb8      0x378 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+                0x00000cb8                __aeabi_drsub
+                0x00000cc0                __aeabi_dsub
+                0x00000cc0                __subdf3
+                0x00000cc4                __aeabi_dadd
+                0x00000cc4                __adddf3
+                0x00000f3c                __floatunsidf
+                0x00000f3c                __aeabi_ui2d
+                0x00000f5c                __floatsidf
+                0x00000f5c                __aeabi_i2d
+                0x00000f80                __aeabi_f2d
+                0x00000f80                __extendsfdf2
+                0x00000fc4                __floatundidf
+                0x00000fc4                __aeabi_ul2d
+                0x00000fd4                __floatdidf
+                0x00000fd4                __aeabi_l2d
+ .text          0x00001030      0x424 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+                0x00001030                __aeabi_dmul
+                0x00001030                __muldf3
+                0x00001284                __divdf3
+                0x00001284                __aeabi_ddiv
+ .text          0x00001454      0x110 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+                0x00001454                __gtdf2
+                0x00001454                __gedf2
+                0x0000145c                __ltdf2
+                0x0000145c                __ledf2
+                0x00001464                __nedf2
+                0x00001464                __eqdf2
+                0x00001464                __cmpdf2
+                0x000014e0                __aeabi_cdrcmple
+                0x000014f0                __aeabi_cdcmpeq
+                0x000014f0                __aeabi_cdcmple
+                0x00001500                __aeabi_dcmpeq
+                0x00001514                __aeabi_dcmplt
+                0x00001528                __aeabi_dcmple
+                0x0000153c                __aeabi_dcmpge
+                0x00001550                __aeabi_dcmpgt
+ .text          0x00001564       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_unorddf2.o)
+                0x00001564                __unorddf2
+                0x00001564                __aeabi_dcmpun
+ .text          0x00001590       0x50 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+                0x00001590                __aeabi_d2iz
+                0x00001590                __fixdfsi
+ .text          0x000015e0       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+                0x000015e0                __truncdfsf2
+                0x000015e0                __aeabi_d2f
+ .text          0x00001680      0x21c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x00001680                __aeabi_frsub
+                0x00001688                __subsf3
+                0x00001688                __aeabi_fsub
+                0x0000168c                __aeabi_fadd
+                0x0000168c                __addsf3
+                0x000017ec                __aeabi_ui2f
+                0x000017ec                __floatunsisf
+                0x000017f4                __aeabi_i2f
+                0x000017f4                __floatsisf
+                0x00001810                __aeabi_ul2f
+                0x00001810                __floatundisf
+                0x00001820                __aeabi_l2f
+                0x00001820                __floatdisf
+ .text          0x0000189c       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x0000189c                __fixunssfsi
+                0x0000189c                __aeabi_f2uiz
+ .text          0x000018dc       0x30 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x000018dc                __aeabi_uldivmod
+ .text          0x0000190c      0x2c0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0000190c                __udivmoddi4
+ .text          0x00001bcc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00001bcc                __aeabi_idiv0
+                0x00001bcc                __aeabi_ldiv0
+ .text          0x00001bd0        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .text          0x00001bd0        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .text          0x00001bd0        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00001bd0        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.text*)
+ .text.downloadNflashApps
+                0x00001bd0      0x338 ./Source/App/Main/AppsDownloader.o
+                0x00001bd0                downloadNflashApps
+ .text.main     0x00001f08       0xa4 ./Source/App/Main/main.o
+                0x00001f08                main
+ .text.verify_apps
+                0x00001fac       0x20 ./Source/App/Main/main.o
+                0x00001fac                verify_apps
+ .text.Delay_ms
+                0x00001fcc       0x46 ./Source/App/Main/main.o
+                0x00001fcc                Delay_ms
+ *fill*         0x00002012        0x2 
+ .text.NVIC_SystemReset
+                0x00002014       0x30 ./Source/BSP/bsp.o
+ .text.assert_failed
+                0x00002044        0x6 ./Source/BSP/bsp.o
+                0x00002044                assert_failed
+ *fill*         0x0000204a        0x2 
+ .text.Reset_Handler
+                0x0000204c       0x74 ./Source/BSP/startup_tm4c_gnu.o
+                0x0000204c                Reset_Handler
+ .text.NMI_Handler
+                0x000020c0       0x18 ./Source/BSP/startup_tm4c_gnu.o
+                0x000020c0                NMI_Handler
+ .text.MemManage_Handler
+                0x000020d8       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x000020d8                MemManage_Handler
+ .text.HardFault_Handler
+                0x000020f4       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x000020f4                HardFault_Handler
+ .text.BusFault_Handler
+                0x00002110       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x00002110                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000212c       0x20 ./Source/BSP/startup_tm4c_gnu.o
+                0x0000212c                UsageFault_Handler
+ .text.Default_Handler
+                0x0000214c       0x1c ./Source/BSP/startup_tm4c_gnu.o
+                0x0000214c                uDMAST_IRQHandler
+                0x0000214c                GPIOPortP4_IRQHandler
+                0x0000214c                PWM1Gen3_IRQHandler
+                0x0000214c                WideTimer5B_IRQHandler
+                0x0000214c                DebugMon_Handler
+                0x0000214c                QEI2_IRQHandler
+                0x0000214c                FlashCtrl_IRQHandler
+                0x0000214c                GPIOPortP7_IRQHandler
+                0x0000214c                Timer0B_IRQHandler
+                0x0000214c                I2C0_IRQHandler
+                0x0000214c                SysTick_Handler
+                0x0000214c                WideTimer4B_IRQHandler
+                0x0000214c                PendSV_Handler
+                0x0000214c                I2C1_IRQHandler
+                0x0000214c                GPIOPortP5_IRQHandler
+                0x0000214c                PWMGen0_IRQHandler
+                0x0000214c                UART1_IRQHandler
+                0x0000214c                CAN1_IRQHandler
+                0x0000214c                Timer1B_IRQHandler
+                0x0000214c                Watchdog_IRQHandler
+                0x0000214c                GPIOPortS_IRQHandler
+                0x0000214c                GPIOPortQ7_IRQHandler
+                0x0000214c                PWM1Gen2_IRQHandler
+                0x0000214c                UART0_IRQHandler
+                0x0000214c                GPIOPortL_IRQHandler
+                0x0000214c                SSI0_IRQHandler
+                0x0000214c                GPIOPortM_IRQHandler
+                0x0000214c                FPU_IRQHandler
+                0x0000214c                ADCSeq1_IRQHandler
+                0x0000214c                GPIOPortP0_IRQHandler
+                0x0000214c                WideTimer0B_IRQHandler
+                0x0000214c                PWMFault_IRQHandler
+                0x0000214c                WideTimer1A_IRQHandler
+                0x0000214c                I2C5_IRQHandler
+                0x0000214c                I2C4_IRQHandler
+                0x0000214c                GPIOPortQ5_IRQHandler
+                0x0000214c                PWMGen1_IRQHandler
+                0x0000214c                SSI1_IRQHandler
+                0x0000214c                I2C2_IRQHandler
+                0x0000214c                UART5_IRQHandler
+                0x0000214c                GPIOPortC_IRQHandler
+                0x0000214c                GPIOPortK_IRQHandler
+                0x0000214c                ADCSeq2_IRQHandler
+                0x0000214c                PWMGen2_IRQHandler
+                0x0000214c                UART2_IRQHandler
+                0x0000214c                GPIOPortP3_IRQHandler
+                0x0000214c                ADC1Seq0_IRQHandler
+                0x0000214c                UART4_IRQHandler
+                0x0000214c                GPIOPortJ_IRQHandler
+                0x0000214c                Default_Handler
+                0x0000214c                WideTimer0A_IRQHandler
+                0x0000214c                Timer5A_IRQHandler
+                0x0000214c                WideTimer3B_IRQHandler
+                0x0000214c                WideTimer2B_IRQHandler
+                0x0000214c                WideTimer5A_IRQHandler
+                0x0000214c                Timer4A_IRQHandler
+                0x0000214c                QEI1_IRQHandler
+                0x0000214c                PWM1Fault_IRQHandler
+                0x0000214c                GPIOPortP6_IRQHandler
+                0x0000214c                QEI0_IRQHandler
+                0x0000214c                ADC1Seq2_IRQHandler
+                0x0000214c                ADC1Seq1_IRQHandler
+                0x0000214c                PWMGen3_IRQHandler
+                0x0000214c                GPIOPortD_IRQHandler
+                0x0000214c                USB0_IRQHandler
+                0x0000214c                I2C3_IRQHandler
+                0x0000214c                SVC_Handler
+                0x0000214c                GPIOPortP2_IRQHandler
+                0x0000214c                GPIOPortQ4_IRQHandler
+                0x0000214c                Timer3B_IRQHandler
+                0x0000214c                Timer3A_IRQHandler
+                0x0000214c                GPIOPortA_IRQHandler
+                0x0000214c                ADC1Seq3_IRQHandler
+                0x0000214c                Timer0A_IRQHandler
+                0x0000214c                GPIOPortP1_IRQHandler
+                0x0000214c                ADCSeq0_IRQHandler
+                0x0000214c                Timer1A_IRQHandler
+                0x0000214c                GPIOPortG_IRQHandler
+                0x0000214c                GPIOPortQ3_IRQHandler
+                0x0000214c                GPIOPortQ1_IRQHandler
+                0x0000214c                Timer5B_IRQHandler
+                0x0000214c                ADCSeq3_IRQHandler
+                0x0000214c                WideTimer4A_IRQHandler
+                0x0000214c                GPIOPortE_IRQHandler
+                0x0000214c                CAN0_IRQHandler
+                0x0000214c                GPIOPortQ0_IRQHandler
+                0x0000214c                Comp0_IRQHandler
+                0x0000214c                Comp1_IRQHandler
+                0x0000214c                Comp2_IRQHandler
+                0x0000214c                GPIOPortQ6_IRQHandler
+                0x0000214c                SSI2_IRQHandler
+                0x0000214c                PWM1Gen0_IRQHandler
+                0x0000214c                GPIOPortF_IRQHandler
+                0x0000214c                UART7_IRQHandler
+                0x0000214c                UART6_IRQHandler
+                0x0000214c                WideTimer2A_IRQHandler
+                0x0000214c                GPIOPortB_IRQHandler
+                0x0000214c                WideTimer3A_IRQHandler
+                0x0000214c                CAN2_IRQHandler
+                0x0000214c                WideTimer1B_IRQHandler
+                0x0000214c                GPIOPortH_IRQHandler
+                0x0000214c                GPIOPortQ2_IRQHandler
+                0x0000214c                GPIOPortR_IRQHandler
+                0x0000214c                Timer4B_IRQHandler
+                0x0000214c                Timer2A_IRQHandler
+                0x0000214c                SSI3_IRQHandler
+                0x0000214c                Timer2B_IRQHandler
+                0x0000214c                uDMAError_IRQHandler
+                0x0000214c                GPIOPortN_IRQHandler
+                0x0000214c                UART3_IRQHandler
+                0x0000214c                SysCtrl_IRQHandler
+                0x0000214c                Hibernate_IRQHandler
+                0x0000214c                PWM1Gen1_IRQHandler
+ .text.ADC_Init
+                0x00002168       0x40 ./Source/Driver/ADC/ADC_Driver.o
+                0x00002168                ADC_Init
+ .text.ADC_port_Init
+                0x000021a8       0x9c ./Source/Driver/ADC/ADC_Driver.o
+ .text.ADC_SS_Init
+                0x00002244       0x4c ./Source/Driver/ADC/ADC_Driver.o
+                0x00002244                ADC_SS_Init
+ .text.analogRead
+                0x00002290      0x180 ./Source/Driver/ADC/ADC_Driver.o
+                0x00002290                analogRead
+ .text.FlashProgram_ByteArr
+                0x00002410      0x164 ./Source/Driver/FLASH/FLASH.o
+                0x00002410                FlashProgram_ByteArr
+ .text.FlashProgram
+                0x00002574       0x90 ./Source/Driver/FLASH/FLASH.o
+                0x00002574                FlashProgram
+ .text.FlashErase
+                0x00002604       0x74 ./Source/Driver/FLASH/FLASH.o
+                0x00002604                FlashErase
+ .text.GPIO_Init
+                0x00002678       0x6c ./Source/Driver/GPIO/GPIOdriver.o
+                0x00002678                GPIO_Init
+ .text.DigitalWrite
+                0x000026e4      0x15c ./Source/Driver/GPIO/GPIOdriver.o
+                0x000026e4                DigitalWrite
+ .text.DigitalRead
+                0x00002840      0x19c ./Source/Driver/GPIO/GPIOdriver.o
+                0x00002840                DigitalRead
+ .text.I2C_Init
+                0x000029dc      0x2b8 ./Source/Driver/I2C/I2C.o
+                0x000029dc                I2C_Init
+ .text.Check_I2C_BUS_busy
+                0x00002c94        0xc ./Source/Driver/I2C/I2C.o
+ .text.Check_I2C_busy
+                0x00002ca0       0x34 ./Source/Driver/I2C/I2C.o
+ .text.Check_I2C_error
+                0x00002cd4       0x88 ./Source/Driver/I2C/I2C.o
+ .text.I2C_Write
+                0x00002d5c       0x2a ./Source/Driver/I2C/I2C.o
+                0x00002d5c                I2C_Write
+ .text.I2C_Write_Memory
+                0x00002d86       0x30 ./Source/Driver/I2C/I2C.o
+                0x00002d86                I2C_Write_Memory
+ *fill*         0x00002db6        0x2 
+ .text.I2C_Write_Multiple
+                0x00002db8      0x194 ./Source/Driver/I2C/I2C.o
+                0x00002db8                I2C_Write_Multiple
+ .text.I2C_Write_Memory_Multiple
+                0x00002f4c      0x1cc ./Source/Driver/I2C/I2C.o
+                0x00002f4c                I2C_Write_Memory_Multiple
+ .text.I2C_Read
+                0x00003118       0x26 ./Source/Driver/I2C/I2C.o
+                0x00003118                I2C_Read
+ *fill*         0x0000313e        0x2 
+ .text.I2C_Read_Multiple
+                0x00003140      0x1a4 ./Source/Driver/I2C/I2C.o
+                0x00003140                I2C_Read_Multiple
+ .text.I2C_Read_Memory
+                0x000032e4       0x36 ./Source/Driver/I2C/I2C.o
+                0x000032e4                I2C_Read_Memory
+ .text.I2C_Read_Memory_Multiple
+                0x0000331a       0x36 ./Source/Driver/I2C/I2C.o
+                0x0000331a                I2C_Read_Memory_Multiple
+ .text.Timer_Init
+                0x00003350       0x68 ./Source/Driver/Timer/Timer.o
+                0x00003350                Timer_Init
+ .text.Start_Timer_0
+                0x000033b8       0x1c ./Source/Driver/Timer/Timer.o
+ .text.Stop_Timer_0
+                0x000033d4       0x1c ./Source/Driver/Timer/Timer.o
+                0x000033d4                Stop_Timer_0
+ .text.Refresh_Timer_0
+                0x000033f0       0x28 ./Source/Driver/Timer/Timer.o
+                0x000033f0                Refresh_Timer_0
+ .text.Timer_scheduler
+                0x00003418      0x194 ./Source/Driver/Timer/Timer.o
+                0x00003418                Timer_scheduler
+ .text.Clear_Timer_Flag
+                0x000035ac       0x60 ./Source/Driver/Timer/Timer.o
+ .text.init_Timer_Counter
+                0x0000360c       0x6c ./Source/Driver/Timer/timercnter.o
+                0x0000360c                init_Timer_Counter
+ .text.Start_Timer_counter
+                0x00003678       0x1c ./Source/Driver/Timer/timercnter.o
+                0x00003678                Start_Timer_counter
+ .text.Stop_Timer_counter
+                0x00003694       0x24 ./Source/Driver/Timer/timercnter.o
+                0x00003694                Stop_Timer_counter
+ .text.Pause_Timer_counter
+                0x000036b8       0x1c ./Source/Driver/Timer/timercnter.o
+                0x000036b8                Pause_Timer_counter
+ .text.Refresh_Timer_counter
+                0x000036d4       0x30 ./Source/Driver/Timer/timercnter.o
+                0x000036d4                Refresh_Timer_counter
+ .text.millis   0x00003704       0x24 ./Source/Driver/Timer/timercnter.o
+                0x00003704                millis
+ .text.UART_init
+                0x00003728      0x394 ./Source/Driver/UART/UART.o
+                0x00003728                UART_init
+ .text.UART_print
+                0x00003abc       0x40 ./Source/Driver/UART/UART.o
+                0x00003abc                UART_print
+ .text.UART_Transmit
+                0x00003afc       0x50 ./Source/Driver/UART/UART.o
+                0x00003afc                UART_Transmit
+ .text.Delay    0x00003b4c       0x2c ./Source/Driver/UART/UART.o
+                0x00003b4c                Delay
+ .text.UART_Receive
+                0x00003b78       0x40 ./Source/Driver/UART/UART.o
+                0x00003b78                UART_Receive
+ .text.UART_Receive_Long
+                0x00003bb8       0x58 ./Source/Driver/UART/UART.o
+                0x00003bb8                UART_Receive_Long
+ .text.UART_RxReady
+                0x00003c10       0x38 ./Source/Driver/UART/UART.o
+                0x00003c10                UART_RxReady
+ .text.ssd1306_command
+                0x00003c48       0x1e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003c48                ssd1306_command
+ .text.ssd1306_data
+                0x00003c66       0x1e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003c66                ssd1306_data
+ .text.ssd1306_init
+                0x00003c84       0xd6 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003c84                ssd1306_init
+ *fill*         0x00003d5a        0x2 
+ .text.ssd1306_clear
+                0x00003d5c       0x34 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003d5c                ssd1306_clear
+ .text.ssd1306_clear_row
+                0x00003d90       0x36 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003d90                ssd1306_clear_row
+ *fill*         0x00003dc6        0x2 
+ .text.ssd1306_draw_pixel
+                0x00003dc8       0xa4 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003dc8                ssd1306_draw_pixel
+ .text.ssd1306_draw_line
+                0x00003e6c      0x110 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003e6c                ssd1306_draw_line
+ .text.ssd1306_refresh
+                0x00003f7c       0x58 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003f7c                ssd1306_refresh
+ .text.ssd1306_setcursor
+                0x00003fd4       0x64 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00003fd4                ssd1306_setcursor
+ .text.ssd1306_Print_String
+                0x00004038       0xe8 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00004038                ssd1306_Print_String
+ .text.ssd1306_set_text_size
+                0x00004120       0x34 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00004120                ssd1306_set_text_size
+ .text.ssd1306_shiva_logo
+                0x00004154       0x3c ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00004154                ssd1306_shiva_logo
+ .text.ssd1306_fill_rect
+                0x00004190       0x78 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00004190                ssd1306_fill_rect
+ .text.ssd1306_DrawRect
+                0x00004208       0xa8 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00004208                ssd1306_DrawRect
+ .text.ssd1306_SetDrawWindow
+                0x000042b0       0x5a ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000042b0                ssd1306_SetDrawWindow
+ .text.ssd1306_set_display_mode
+                0x0000430a       0x40 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x0000430a                ssd1306_set_display_mode
+ .text.ssd1306_DrawCircle
+                0x0000434a      0x182 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x0000434a                ssd1306_DrawCircle
+ .text.ssd1306_clear_refresh
+                0x000044cc       0x4e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000044cc                ssd1306_clear_refresh
+ *fill*         0x0000451a        0x2 
+ .text.exit     0x0000451c       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+                0x0000451c                exit
+ .text.__libc_init_array
+                0x0000453c       0x48 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+                0x0000453c                __libc_init_array
+ .text.memset   0x00004584       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+                0x00004584                memset
+ .text._sprintf_r
+                0x00004624       0x38 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+                0x00004624                _sprintf_r
+ .text.sprintf  0x0000465c       0x44 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+                0x0000465c                sprintf
+ .text._svfprintf_r
+                0x000046a0     0x1acc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+                0x000046a0                _svfprintf_r
+ .text.startup.register_fini
+                0x0000616c       0x14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00006180       0xc4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x00006180                __call_exitprocs
+ .text.atexit   0x00006244        0xc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+                0x00006244                atexit
+ .text.quorem   0x00006250      0x11c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+ *fill*         0x0000636c        0x4 
+ .text._dtoa_r  0x00006370      0xeb8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+                0x00006370                _dtoa_r
+ .text.__libc_fini_array
+                0x00007228       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+                0x00007228                __libc_fini_array
+ .text._malloc_trim_r
+                0x00007254       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+                0x00007254                _malloc_trim_r
+ .text._free_r  0x000072f4      0x208 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+                0x000072f4                _free_r
+ .text.__localeconv_l
+                0x000074fc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+                0x000074fc                __localeconv_l
+ .text._localeconv_r
+                0x00007500        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+                0x00007500                _localeconv_r
+ .text.localeconv
+                0x00007508        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+                0x00007508                localeconv
+ .text.__retarget_lock_init
+                0x00007510        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007510                __retarget_lock_init
+ .text.__retarget_lock_init_recursive
+                0x00007514        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007514                __retarget_lock_init_recursive
+ .text.__retarget_lock_close
+                0x00007518        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007518                __retarget_lock_close
+ .text.__retarget_lock_close_recursive
+                0x0000751c        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x0000751c                __retarget_lock_close_recursive
+ .text.__retarget_lock_acquire
+                0x00007520        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007520                __retarget_lock_acquire
+ .text.__retarget_lock_acquire_recursive
+                0x00007524        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007524                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_try_acquire
+                0x00007528        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007528                __retarget_lock_try_acquire
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000752c        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x0000752c                __retarget_lock_try_acquire_recursive
+ .text.__retarget_lock_release
+                0x00007530        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007530                __retarget_lock_release
+ .text.__retarget_lock_release_recursive
+                0x00007534        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x00007534                __retarget_lock_release_recursive
+ .text._malloc_r
+                0x00007538      0x574 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x00007538                _malloc_r
+ .text.__malloc_lock
+                0x00007aac        0xc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+                0x00007aac                __malloc_lock
+ .text.__malloc_unlock
+                0x00007ab8        0xc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+                0x00007ab8                __malloc_unlock
+ .text._Balloc  0x00007ac4       0x4c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007ac4                _Balloc
+ .text._Bfree   0x00007b10       0x14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007b10                _Bfree
+ .text.__multadd
+                0x00007b24       0x80 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007b24                __multadd
+ .text.__s2b    0x00007ba4       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007ba4                __s2b
+ .text.__hi0bits
+                0x00007c44       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007c44                __hi0bits
+ .text.__lo0bits
+                0x00007c84       0x60 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007c84                __lo0bits
+ .text.__i2b    0x00007ce4       0x14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007ce4                __i2b
+ .text.__multiply
+                0x00007cf8      0x144 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007cf8                __multiply
+ .text.__pow5mult
+                0x00007e3c       0xa0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007e3c                __pow5mult
+ .text.__lshift
+                0x00007edc       0xd4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007edc                __lshift
+ .text.__mcmp   0x00007fb0       0x3c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007fb0                __mcmp
+ .text.__mdiff  0x00007fec      0x138 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00007fec                __mdiff
+ .text.__ulp    0x00008124       0x44 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00008124                __ulp
+ .text.__b2d    0x00008168       0xcc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00008168                __b2d
+ .text.__d2b    0x00008234       0xa8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00008234                __d2b
+ .text.__ratio  0x000082dc       0x60 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x000082dc                __ratio
+ .text._mprec_log10
+                0x0000833c       0x38 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x0000833c                _mprec_log10
+ .text.__copybits
+                0x00008374       0x48 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x00008374                __copybits
+ .text.__any_on
+                0x000083bc       0x60 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x000083bc                __any_on
+ .text.frexp    0x0000841c       0x70 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+                0x0000841c                frexp
+ .text._sbrk_r  0x0000848c       0x24 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+                0x0000848c                _sbrk_r
+ .text.strncpy  0x000084b0       0x68 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+                0x000084b0                strncpy
+ .text.__ssprint_r
+                0x00008518       0xf8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+                0x00008518                __ssprint_r
+ .text._svfiprintf_r
+                0x00008610      0xb14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+                0x00008610                _svfiprintf_r
+ .text.__register_exitproc
+                0x00009124       0x8c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+                0x00009124                __register_exitproc
+ .text._calloc_r
+                0x000091b0       0x60 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+                0x000091b0                _calloc_r
+ .text._setlocale_r
+                0x00009210       0x40 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                0x00009210                _setlocale_r
+ .text.__locale_mb_cur_max
+                0x00009250        0xc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                0x00009250                __locale_mb_cur_max
+ .text.setlocale
+                0x0000925c       0x10 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                0x0000925c                setlocale
+ .text._mbtowc_r
+                0x0000926c       0x14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+                0x0000926c                _mbtowc_r
+ .text.__ascii_mbtowc
+                0x00009280       0x2c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+                0x00009280                __ascii_mbtowc
+ .text.memmove  0x000092ac       0xd8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+                0x000092ac                memmove
+ .text._realloc_r
+                0x00009384      0x3e0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+                0x00009384                _realloc_r
+ .text.cleanup_glue
+                0x00009764       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+                0x00009764                cleanup_glue
+ .text._reclaim_reent
+                0x00009780       0x84 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+                0x00009780                _reclaim_reent
+ .text._wctomb_r
+                0x00009804       0x14 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+                0x00009804                _wctomb_r
+ .text.__ascii_wctomb
+                0x00009818       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+                0x00009818                __ascii_wctomb
+ .text._sbrk    0x00009834       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+                0x00009834                _sbrk
+ .text._exit    0x00009850        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+                0x00009850                _exit
+ *(.rodata)
+ .rodata        0x00009854       0x50 ./Source/App/Main/AppsDownloader.o
+ .rodata        0x000098a4       0x13 ./Source/App/Main/main.o
+ *fill*         0x000098b7        0x1 
+ .rodata        0x000098b8        0xe ./Source/BSP/startup_tm4c_gnu.o
+ *(.rodata*)
+ *fill*         0x000098c6        0x2 
+ .rodata.PORT   0x000098c8       0x18 ./Source/Driver/GPIO/GPIOdriver.o
+                0x000098c8                PORT
+ .rodata.font_width
+                0x000098e0        0x1 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000098e0                font_width
+ *fill*         0x000098e1        0x3 
+ .rodata.font_5x8
+                0x000098e4      0x2a0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x000098e4                font_5x8
+ .rodata.shiva_logo
+                0x00009b84      0x400 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x00009b84                shiva_logo
+ .rodata._global_impure_ptr
+                0x00009f84        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x00009f84                _global_impure_ptr
+ .rodata._svfprintf_r.str1.4
+                0x00009f88       0x42 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ *fill*         0x00009fca        0x2 
+ .rodata.blanks.7345
+                0x00009fcc       0x10 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .rodata.zeroes.7346
+                0x00009fdc       0x10 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .rodata._dtoa_r.str1.4
+                0x00009fec        0xd c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+                                 0x12 (size before relaxing)
+ *fill*         0x00009ff9        0x7 
+ .rodata.__mprec_bigtens
+                0x0000a000       0x28 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x0000a000                __mprec_bigtens
+ .rodata.__mprec_tens
+                0x0000a028       0xc8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x0000a028                __mprec_tens
+ .rodata.__mprec_tinytens
+                0x0000a0f0       0x28 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+                0x0000a0f0                __mprec_tinytens
+ .rodata.p05.6115
+                0x0000a118        0xc c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+ .rodata._svfiprintf_r.str1.4
+                0x0000a124       0x2f c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .rodata.blanks.7324
+                0x0000a124       0x10 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .rodata.zeroes.7325
+                0x0000a134       0x10 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .rodata._setlocale_r.str1.4
+                0x0000a144        0xa c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                                  0xd (size before relaxing)
+ *fill*         0x0000a14e        0x2 
+ .rodata.str1.4
+                0x0000a150        0x2 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+ *fill*         0x0000a152        0x2 
+ .rodata._ctype_
+                0x0000a154      0x101 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+                0x0000a154                _ctype_
+ *(.init)
+ *fill*         0x0000a255        0x3 
+ .init          0x0000a258        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x0000a258                _init
+ .init          0x0000a25c        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000a264        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x0000a264                _fini
+ .fini          0x0000a268        0x8 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+                0x0000a270                . = ALIGN (0x4)
+
+.glue_7         0x0000a270        0x0
+ .glue_7        0x0000a270        0x0 linker stubs
+
+.glue_7t        0x0000a270        0x0
+ .glue_7t       0x0000a270        0x0 linker stubs
+
+.vfp11_veneer   0x0000a270        0x0
+ .vfp11_veneer  0x0000a270        0x0 linker stubs
+
+.v4_bx          0x0000a270        0x0
+ .v4_bx         0x0000a270        0x0 linker stubs
+
+.iplt           0x0000a270        0x0
+ .iplt          0x0000a270        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rel.dyn        0x0000a270        0x0
+ .rel.iplt      0x0000a270        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.preinit_array  0x0000a270        0x0
+                0x0000a270                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x0000a270                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x0000a270        0x8
+                0x0000a270                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x0000a270        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x0000a274        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000a278                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000a278        0x4
+                0x0000a278                PROVIDE (__fini_array_start = .)
+ *(.fini_array*)
+ .fini_array    0x0000a278        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000a27c                PROVIDE (__fini_array_end = .)
+                0x0000a27c                _etext = .
+
+.data           0x20000000      0xa40 load address 0x0000a27c
+                0x0000a27c                __data_load__ = LOADADDR (.data)
+                0x20000000                __data_start__ = .
+ *(.data)
+ .data          0x20000000        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x20000000        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000000                __dso_handle
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x20000004        0x0 ./Source/App/Main/AppsDownloader.o
+ .data          0x20000004        0x0 ./Source/App/Main/main.o
+ .data          0x20000004        0x0 ./Source/BSP/bsp.o
+ .data          0x20000004        0x0 ./Source/BSP/startup_tm4c_gnu.o
+ .data          0x20000004        0x0 ./Source/Driver/ADC/ADC_Driver.o
+ .data          0x20000004        0x0 ./Source/Driver/FLASH/FLASH.o
+ .data          0x20000004        0x0 ./Source/Driver/GPIO/GPIOdriver.o
+ .data          0x20000004        0x0 ./Source/Driver/I2C/I2C.o
+ .data          0x20000004        0x0 ./Source/Driver/Timer/Timer.o
+ .data          0x20000004        0x0 ./Source/Driver/Timer/timercnter.o
+ .data          0x20000004        0x0 ./Source/Driver/UART/UART.o
+ .data          0x20000004        0x0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memchr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strcmp.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_unorddf2.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x20000004        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.data*)
+ .data.I2C_config
+                0x20000004       0x30 ./Source/Driver/I2C/I2C.o
+                0x20000004                I2C_config
+ .data.UART_config
+                0x20000034       0x60 ./Source/Driver/UART/UART.o
+                0x20000034                UART_config
+ .data._impure_ptr
+                0x20000094        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+                0x20000094                _impure_ptr
+ .data.impure_data
+                0x20000098      0x428 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x200004c0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+                0x200004c0                __atexit_recursive_mutex
+ .data.__malloc_av_
+                0x200004c4      0x408 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x200004c4                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x200008cc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x200008cc                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x200008d0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x200008d0                __malloc_trim_threshold
+ .data.__global_locale
+                0x200008d4      0x16c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                0x200008d4                __global_locale
+                0x20000a40                . = ALIGN (0x4)
+                0x20000a40                __data_end__ = .
+                0x20000a40                _edata = __data_end__
+
+.igot.plt       0x20000a40        0x0 load address 0x0000acbc
+ .igot.plt      0x20000a40        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.bss            0x20000a40      0x4d4 load address 0x0000acbc
+                0x20000a40                __bss_start__ = .
+ *(.bss)
+ .bss           0x20000a40        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x20000a40       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x20000a5c        0x0 ./Source/App/Main/AppsDownloader.o
+ .bss           0x20000a5c        0x0 ./Source/App/Main/main.o
+ .bss           0x20000a5c        0x0 ./Source/BSP/bsp.o
+ .bss           0x20000a5c        0x0 ./Source/BSP/startup_tm4c_gnu.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/ADC/ADC_Driver.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/FLASH/FLASH.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/GPIO/GPIOdriver.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/I2C/I2C.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/Timer/Timer.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/Timer/timercnter.o
+ .bss           0x20000a5c        0x0 ./Source/Driver/UART/UART.o
+ .bss           0x20000a5c        0x0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-exit.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-impure.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-init.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memset.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sprintf.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfprintf.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__call_atexit.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-atexit.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-dtoa.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-fini.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-freer.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-localeconv.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memchr.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memcpy.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mlock.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mprec.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-s_frexp.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-sbrkr.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strlen.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strncpy.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-svfiprintf.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-__atexit.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-callocr.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mbtowc_r.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-memmove.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reallocr.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-strcmp.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-wctomb_r.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-ctype_.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldf3.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_unorddf2.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixdfsi.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x20000a5c        0x0 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.bss*)
+ .bss.l_tickCtr
+                0x20000a5c        0x4 ./Source/BSP/bsp.o
+ .bss.ADC_port_Flag
+                0x20000a60        0xc ./Source/Driver/ADC/ADC_Driver.o
+ .bss.ADC_Init_Flag
+                0x20000a6c        0x1 ./Source/Driver/ADC/ADC_Driver.o
+ *fill*         0x20000a6d        0x3 
+ .bss.Port_IO_flag
+                0x20000a70        0x6 ./Source/Driver/GPIO/GPIOdriver.o
+ .bss.GPIO_Init_flag
+                0x20000a76        0x1 ./Source/Driver/GPIO/GPIOdriver.o
+ *fill*         0x20000a77        0x1 
+ .bss.I2C_Index
+                0x20000a78        0x4 ./Source/Driver/I2C/I2C.o
+ .bss.error_code
+                0x20000a7c        0x4 ./Source/Driver/I2C/I2C.o
+ .bss.I2C_Init_Flag
+                0x20000a80        0x1 ./Source/Driver/I2C/I2C.o
+ *fill*         0x20000a81        0x3 
+ .bss.I2C_TPR   0x20000a84        0x4 ./Source/Driver/I2C/I2C.o
+ .bss.Timer_Flag
+                0x20000a88        0x1 ./Source/Driver/Timer/Timer.o
+                0x20000a88                Timer_Flag
+ .bss.Timer0_Init_flag
+                0x20000a89        0x1 ./Source/Driver/Timer/Timer.o
+ .bss.Count_20ms
+                0x20000a8a        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_30ms
+                0x20000a8c        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_50ms
+                0x20000a8e        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_100ms
+                0x20000a90        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_200ms
+                0x20000a92        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_500ms
+                0x20000a94        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_1000ms
+                0x20000a96        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.Count_2000ms
+                0x20000a98        0x2 ./Source/Driver/Timer/Timer.o
+ .bss.UART_Init_Flag
+                0x20000a9a        0x1 ./Source/Driver/UART/UART.o
+ *fill*         0x20000a9b        0x1 
+ .bss.UART_Index
+                0x20000a9c        0x4 ./Source/Driver/UART/UART.o
+ .bss.BaudRate_Integer
+                0x20000aa0        0x4 ./Source/Driver/UART/UART.o
+ .bss.BaudRate_Float
+                0x20000aa4        0x4 ./Source/Driver/UART/UART.o
+ .bss.ssd1306_current_col
+                0x20000aa8        0x1 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x20000aa8                ssd1306_current_col
+ .bss.ssd1306_current_page
+                0x20000aa9        0x1 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x20000aa9                ssd1306_current_page
+ *fill*         0x20000aaa        0x2 
+ .bss.__malloc_current_mallinfo
+                0x20000aac       0x28 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x20000aac                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x20000ad4        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x20000ad4                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x20000ad8        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x20000ad8                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x20000adc        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-mallocr.o)
+                0x20000adc                __malloc_top_pad
+ .bss._PathLocale
+                0x20000ae0        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-locale.o)
+                0x20000ae0                _PathLocale
+ .bss.heap_end.4144
+                0x20000ae4        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ *(COMMON)
+ COMMON         0x20000ae8        0x4 ./Source/Driver/UART/UART.o
+                0x20000ae8                temp
+ COMMON         0x20000aec      0x400 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                0x20000aec                ssd1306_buffer
+ COMMON         0x20000eec       0x21 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-lock.o)
+                0x20000eec                __lock___atexit_recursive_mutex
+                0x20000ef0                __lock___arc4random_mutex
+                0x20000ef4                __lock___env_recursive_mutex
+                0x20000ef8                __lock___sinit_recursive_mutex
+                0x20000efc                __lock___malloc_recursive_mutex
+                0x20000f00                __lock___at_quick_exit_mutex
+                0x20000f04                __lock___dd_hash_mutex
+                0x20000f08                __lock___tz_mutex
+                0x20000f0c                __lock___sfp_recursive_mutex
+ *fill*         0x20000f0d        0x3 
+ COMMON         0x20000f10        0x4 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a(lib_a-reent.o)
+                0x20000f10                errno
+                0x20000f14                . = ALIGN (0x4)
+                0x20000f14                _ebss = .
+                0x20000f14                __bss_end__ = .
+                0x20000f14                PROVIDE (end = _ebss)
+                [!provide]                PROVIDE (_end = _ebss)
+                [!provide]                PROVIDE (__end__ = _ebss)
+
+.heap           0x20000f14        0x0
+                0x20000f14                __heap_start__ = .
+                0x20000f14                . = (. + HEAP_SIZE)
+                0x20000f14                . = ALIGN (0x4)
+                0x20000f14                __heap_end__ = .
+
+.stack          0x20000f14     0x1000 load address 0x0000b190
+                0x20000f14                __stack_start__ = .
+                0x20001f14                . = (. + STACK_SIZE)
+ *fill*         0x20000f14     0x1000 
+                0x20001f14                . = ALIGN (0x4)
+                0x20001f14                __stack_end__ = .
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+START GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+END GROUP
+START GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc.a
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(Bootloader.out elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x0000001e       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000004c       0x1c c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x00000068       0x2e ./Source/App/Main/AppsDownloader.o
+ .ARM.attributes
+                0x00000096       0x2e ./Source/App/Main/main.o
+ .ARM.attributes
+                0x000000c4       0x2e ./Source/BSP/bsp.o
+ .ARM.attributes
+                0x000000f2       0x2e ./Source/BSP/startup_tm4c_gnu.o
+ .ARM.attributes
+                0x00000120       0x2e ./Source/Driver/ADC/ADC_Driver.o
+ .ARM.attributes
+                0x0000014e       0x2e ./Source/Driver/FLASH/FLASH.o
+ .ARM.attributes
+                0x0000017c       0x2e ./Source/Driver/GPIO/GPIOdriver.o
+ .ARM.attributes
+                0x000001aa       0x2e ./Source/Driver/I2C/I2C.o
+ .ARM.attributes
+                0x000001d8       0x2e ./Source/Driver/Timer/Timer.o
+ .ARM.attributes
+                0x00000206       0x2e ./Source/Driver/Timer/timercnter.o
+ .ARM.attributes
+                0x00000234       0x2e ./Source/Driver/UART/UART.o
+ .ARM.attributes
+                0x00000262       0x2e ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .ARM.attributes
+                0x00000290       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000002be       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
+ .ARM.attributes
+                0x000002ec       0x2e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000031a       0x1e c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+.comment        0x00000000       0x79
+ .comment       0x00000000       0x79 ./Source/App/Main/AppsDownloader.o
+                                 0x7a (size before relaxing)
+ .comment       0x00000079       0x7a ./Source/App/Main/main.o
+ .comment       0x00000079       0x7a ./Source/BSP/bsp.o
+ .comment       0x00000079       0x7a ./Source/BSP/startup_tm4c_gnu.o
+ .comment       0x00000079       0x7a ./Source/Driver/ADC/ADC_Driver.o
+ .comment       0x00000079       0x7a ./Source/Driver/FLASH/FLASH.o
+ .comment       0x00000079       0x7a ./Source/Driver/GPIO/GPIOdriver.o
+ .comment       0x00000079       0x7a ./Source/Driver/I2C/I2C.o
+ .comment       0x00000079       0x7a ./Source/Driver/Timer/Timer.o
+ .comment       0x00000079       0x7a ./Source/Driver/Timer/timercnter.o
+ .comment       0x00000079       0x7a ./Source/Driver/UART/UART.o
+ .comment       0x00000079       0x7a ./Source/Middleware/OLED_SSD1306/SSD1306.o
+
+.debug_info     0x00000000     0x971f
+ .debug_info    0x00000000      0xe52 ./Source/App/Main/AppsDownloader.o
+ .debug_info    0x00000e52      0x77f ./Source/App/Main/main.o
+ .debug_info    0x000015d1      0x5c7 ./Source/BSP/bsp.o
+ .debug_info    0x00001b98      0x193 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_info    0x00001d2b     0x15a3 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_info    0x000032ce      0x2a3 ./Source/Driver/FLASH/FLASH.o
+ .debug_info    0x00003571     0x11ba ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_info    0x0000472b     0x153e ./Source/Driver/I2C/I2C.o
+ .debug_info    0x00005c69     0x10bf ./Source/Driver/Timer/Timer.o
+ .debug_info    0x00006d28      0xf5d ./Source/Driver/Timer/timercnter.o
+ .debug_info    0x00007c85     0x1341 ./Source/Driver/UART/UART.o
+ .debug_info    0x00008fc6      0x759 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+
+.debug_abbrev   0x00000000     0x137d
+ .debug_abbrev  0x00000000      0x246 ./Source/App/Main/AppsDownloader.o
+ .debug_abbrev  0x00000246      0x1e4 ./Source/App/Main/main.o
+ .debug_abbrev  0x0000042a      0x173 ./Source/BSP/bsp.o
+ .debug_abbrev  0x0000059d       0xf4 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_abbrev  0x00000691      0x19d ./Source/Driver/ADC/ADC_Driver.o
+ .debug_abbrev  0x0000082e       0xc0 ./Source/Driver/FLASH/FLASH.o
+ .debug_abbrev  0x000008ee      0x196 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_abbrev  0x00000a84      0x263 ./Source/Driver/I2C/I2C.o
+ .debug_abbrev  0x00000ce7      0x17a ./Source/Driver/Timer/Timer.o
+ .debug_abbrev  0x00000e61      0x133 ./Source/Driver/Timer/timercnter.o
+ .debug_abbrev  0x00000f94      0x233 ./Source/Driver/UART/UART.o
+ .debug_abbrev  0x000011c7      0x1b6 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+
+.debug_aranges  0x00000000      0x360
+ .debug_aranges
+                0x00000000       0x20 ./Source/App/Main/AppsDownloader.o
+ .debug_aranges
+                0x00000020       0x30 ./Source/App/Main/main.o
+ .debug_aranges
+                0x00000050       0x28 ./Source/BSP/bsp.o
+ .debug_aranges
+                0x00000078       0x50 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_aranges
+                0x000000c8       0x38 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_aranges
+                0x00000100       0x30 ./Source/Driver/FLASH/FLASH.o
+ .debug_aranges
+                0x00000130       0x30 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_aranges
+                0x00000160       0x78 ./Source/Driver/I2C/I2C.o
+ .debug_aranges
+                0x000001d8       0x48 ./Source/Driver/Timer/Timer.o
+ .debug_aranges
+                0x00000220       0x48 ./Source/Driver/Timer/timercnter.o
+ .debug_aranges
+                0x00000268       0x50 ./Source/Driver/UART/UART.o
+ .debug_aranges
+                0x000002b8       0xa8 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+
+.debug_ranges   0x00000000      0x2b8
+ .debug_ranges  0x00000000       0x10 ./Source/App/Main/AppsDownloader.o
+ .debug_ranges  0x00000010       0x20 ./Source/App/Main/main.o
+ .debug_ranges  0x00000030       0x18 ./Source/BSP/bsp.o
+ .debug_ranges  0x00000048       0x40 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_ranges  0x00000088       0x28 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_ranges  0x000000b0       0x20 ./Source/Driver/FLASH/FLASH.o
+ .debug_ranges  0x000000d0       0x20 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_ranges  0x000000f0       0x68 ./Source/Driver/I2C/I2C.o
+ .debug_ranges  0x00000158       0x38 ./Source/Driver/Timer/Timer.o
+ .debug_ranges  0x00000190       0x38 ./Source/Driver/Timer/timercnter.o
+ .debug_ranges  0x000001c8       0x40 ./Source/Driver/UART/UART.o
+ .debug_ranges  0x00000208       0xb0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+
+.debug_line     0x00000000     0x2b28
+ .debug_line    0x00000000      0x45b ./Source/App/Main/AppsDownloader.o
+ .debug_line    0x0000045b      0x303 ./Source/App/Main/main.o
+ .debug_line    0x0000075e      0x256 ./Source/BSP/bsp.o
+ .debug_line    0x000009b4      0x135 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_line    0x00000ae9      0x385 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_line    0x00000e6e      0x382 ./Source/Driver/FLASH/FLASH.o
+ .debug_line    0x000011f0      0x35a ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_line    0x0000154a      0x60c ./Source/Driver/I2C/I2C.o
+ .debug_line    0x00001b56      0x2fe ./Source/Driver/Timer/Timer.o
+ .debug_line    0x00001e54      0x234 ./Source/Driver/Timer/timercnter.o
+ .debug_line    0x00002088      0x428 ./Source/Driver/UART/UART.o
+ .debug_line    0x000024b0      0x678 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+
+.debug_str      0x00000000     0x1a9b
+ .debug_str     0x00000000      0x746 ./Source/App/Main/AppsDownloader.o
+                                0x7c8 (size before relaxing)
+ .debug_str     0x00000746      0x132 ./Source/App/Main/main.o
+                                0x44b (size before relaxing)
+ .debug_str     0x00000878       0x49 ./Source/BSP/bsp.o
+                                0x3c5 (size before relaxing)
+ .debug_str     0x000008c1      0x127 ./Source/BSP/startup_tm4c_gnu.o
+                                0x247 (size before relaxing)
+ .debug_str     0x000009e8      0x764 ./Source/Driver/ADC/ADC_Driver.o
+                                0xa82 (size before relaxing)
+ .debug_str     0x0000114c       0x65 ./Source/Driver/FLASH/FLASH.o
+                                0x335 (size before relaxing)
+ .debug_str     0x000011b1       0x8a ./Source/Driver/GPIO/GPIOdriver.o
+                                0x942 (size before relaxing)
+ .debug_str     0x0000123b      0x266 ./Source/Driver/I2C/I2C.o
+                                0xb03 (size before relaxing)
+ .debug_str     0x000014a1      0x1e9 ./Source/Driver/Timer/Timer.o
+                                0xa40 (size before relaxing)
+ .debug_str     0x0000168a       0xa8 ./Source/Driver/Timer/timercnter.o
+                                0x92a (size before relaxing)
+ .debug_str     0x00001732      0x164 ./Source/Driver/UART/UART.o
+                                0xa67 (size before relaxing)
+ .debug_str     0x00001896      0x205 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+                                0x4fd (size before relaxing)
+
+.debug_frame    0x00000000      0xa84
+ .debug_frame   0x00000000       0x38 ./Source/App/Main/AppsDownloader.o
+ .debug_frame   0x00000038       0x7c ./Source/App/Main/main.o
+ .debug_frame   0x000000b4       0x38 ./Source/BSP/bsp.o
+ .debug_frame   0x000000ec       0x94 ./Source/BSP/startup_tm4c_gnu.o
+ .debug_frame   0x00000180       0xa4 ./Source/Driver/ADC/ADC_Driver.o
+ .debug_frame   0x00000224       0x88 ./Source/Driver/FLASH/FLASH.o
+ .debug_frame   0x000002ac       0x78 ./Source/Driver/GPIO/GPIOdriver.o
+ .debug_frame   0x00000324      0x1c0 ./Source/Driver/I2C/I2C.o
+ .debug_frame   0x000004e4       0xcc ./Source/Driver/Timer/Timer.o
+ .debug_frame   0x000005b0       0xd8 ./Source/Driver/Timer/timercnter.o
+ .debug_frame   0x00000688      0x11c ./Source/Driver/UART/UART.o
+ .debug_frame   0x000007a4      0x2a0 ./Source/Middleware/OLED_SSD1306/SSD1306.o
+ .debug_frame   0x00000a44       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(sbrk.o)
+ .debug_frame   0x00000a64       0x20 c:/ti/ccs1220/ccs/tools/compiler/gcc-arm-none-eabi-9-2019-q4-major/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a(_exit.o)
