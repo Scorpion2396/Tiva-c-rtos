@@ -9,5 +9,6 @@
 #define BSP_TICK_PER_SEC 1000U
 
 void BSP_init();
+void SystemInit(void);
 
 #endif // __BSP_H__

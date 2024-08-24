@@ -47,7 +47,7 @@ MEMORY { /* memory map of Tiva TM4C123GH6PM */
 STACK_SIZE = 4K;
 
 /* The size of the heap used by the application. NOTE: you need to adjust   */
-HEAP_SIZE = 4K;
+HEAP_SIZE = 1K;
 
 SECTIONS {
 

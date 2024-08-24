@@ -27,7 +27,9 @@ Source/App/Main/main.o: ../Source/App/Main/main.c \
  D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/projdefs.h \
  D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/mpu_wrappers.h \
  D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/task.h \
- D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/list.h
+ D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/list.h \
+ D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/queue.h \
+ D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/task.h
 
 D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/CMSIS/TM4C123GH6PM.h:
 
@@ -82,3 +84,7 @@ D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/mp
 D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/task.h:
 
 D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/list.h:
+
+D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/queue.h:
+
+D:/embedded/Code_Composer_Studio/Boot_App/Application/Source/FreeRtos/include/task.h:

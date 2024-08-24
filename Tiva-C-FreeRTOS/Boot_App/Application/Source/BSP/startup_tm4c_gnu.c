@@ -355,6 +355,7 @@ int const g_pfnVectors[] = {
 /* reset handler -----------------------------------------------------------*/
 void Reset_Handler(void) {
     extern void main(void);
+    extern void SystemInit(void);
     extern int __libc_init_array(void);
     extern unsigned __data_start__;  /* start of .data in the linker script */
     extern unsigned __data_end__;  /* end of .data in the linker script */
@@ -384,9 +385,10 @@ void Reset_Handler(void) {
     }
 
 
-     /* call all static constructors in C++ (comment out in C programs) */
-     //__libc_init_array();
-     (void)main(); /* application's entry point; should never return! */
+    /* call all static constructors in C++ (comment out in C programs) */
+    //__libc_init_array();
+    SystemInit();
+    (void)main(); /* application's entry point; should never return! */
 
     /* the previous code should not return, but assert just in case... */
     assert_failed("Reset_Handler", __LINE__);

@@ -110,26 +110,27 @@ void UART_init(UART_Channel UART_Ch_Index, uint32_t UART_BaudRate)
 }
 
 
-void UART_print(uint8_t *data)
+void UART_print_int(uint32_t data)
 {
+    uint8_t str[4] = {'\0'};
 
-    if(UART_Init_Flag == 0)
-    {
-        UART_init(UART_0, 9600);
-    }
+    sprintf(str,"%d",data);
 
-    else
-    {
-        while(*data)
-        {
-            UART_Transmitter(*(data++));
-        }
-    }
-
+    UART_print(str);
 }
 
 
-void UART_Transmitter(char data)  
+void UART_print(uint8_t *data)
+{
+
+     while(*data)
+     {
+        UART_Transmit((uint8_t)*(data++));
+     }
+}
+
+
+void UART_Transmit(uint8_t data)
 {
     while((UART_config[UART_Index].UART_Perif_Addr->FR & 0x20) != 0);           /* wait until Tx buffer not full */
     UART_config[UART_Index].UART_Perif_Addr->DR = data;                         /* before giving it another byte */

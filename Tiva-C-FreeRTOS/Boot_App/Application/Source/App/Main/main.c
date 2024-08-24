@@ -19,42 +19,50 @@
 /******************************************************************************/
 #include "FreeRTOS.h"
 #include "task.h"
+#include "queue.h"
+/******************************************************************************/
+
+static const uint8_t msg_queue_len = 5;
+
+static QueueHandle_t msg_queue;
 
 
 /******************************************************************************/
-void toggleLed_PF1()
+void queueReceive()
 {
+    uint32_t item;
 
     while(1)
     {
-        ssd1306_clear_row(2);
-        ssd1306_setcursor(2,0);
-        ssd1306_Print_String("Running PF1");
+        if(xQueueReceive(msg_queue, (void*)&item, 0) == pdTRUE)
+        {
+            UART_print_int(item);
+            UART_print("\n\r");
+        }
+        else
+        {
+            UART_print("Queue empty\n\r");
+        }
 
-
-        DigitalWrite(PF1,HIGH);
-        vTaskDelay(500 / portTICK_PERIOD_MS);
-
-        DigitalWrite(PF1,LOW);
-        vTaskDelay(500 / portTICK_PERIOD_MS);
+        vTaskDelay(1000 / portTICK_PERIOD_MS);
     }
 }
 
 /******************************************************************************/
-void toggleLed_PF2()
+void queueSend()
 {
 
     while(1)
     {
-        ssd1306_clear_row(2);
-        ssd1306_setcursor(2,0);
-        ssd1306_Print_String("Running PF2");
+        static uint32_t num = 0;
 
+        if(xQueueSend(msg_queue, (void*)&num, 10) != pdTRUE)
+        {
+            UART_print("Queue full\n\r");
+        }
 
-        DigitalWrite(PF2,HIGH);
-        vTaskDelay(500 / portTICK_PERIOD_MS);
+        num++;
 
-        DigitalWrite(PF2,LOW);
         vTaskDelay(500 / portTICK_PERIOD_MS);
     }
 }
@@ -68,23 +76,27 @@ void main()
     Delay_ms(100);
 
     I2C_Init(I2C_2, 500);
+    UART_init(UART_0, 9600);
     ssd1306_init();
 
     ssd1306_clear_row(7);
     ssd1306_setcursor(7,0);
     ssd1306_Print_String("Running Apps");
 
+    UART_print("Running Apps\n\r");
+
+    msg_queue = xQueueCreate(msg_queue_len, sizeof(int));
 
 
-    xTaskCreate(toggleLed_PF1,
-                "Toggle_LED_PF1",
+    xTaskCreate(queueReceive,
+                "queueReceive",
                 512,
                 NULL,
                 1,
                 NULL);
 
-    xTaskCreate(toggleLed_PF2,
-                "Toggle_LED_PF2",
+    xTaskCreate(queueSend,
+                "queueSend",
                 512,
                 NULL,
                 0,
@@ -94,6 +106,7 @@ void main()
     ssd1306_clear_row(1);
     ssd1306_setcursor(1,0);
     ssd1306_Print_String("Task Created");
+    UART_print("Task Created\n\r");
 
 
     vTaskStartScheduler();

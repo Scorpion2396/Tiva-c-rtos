@@ -1,5 +1,6 @@
 /******************************************************************************/
 #include "main.h"
+#include "UART_Interface.h"
 /******************************************************************************/
 
 
@@ -12,14 +13,16 @@ void main()
     Delay_ms(100);
 
     I2C_Init(I2C_2, 500);
-    UART_init(UART_0, 115200);
+    UART_init(UART_0, 9600);
     ssd1306_init();
 
     ssd1306_clear_row(7);
     ssd1306_setcursor(7,0);
     ssd1306_Print_String("Running Bootloader");
-    //Delay_ms(2000);
+    Delay_ms(500);
 
+    UART_print("Running boot\n\r");
+    Delay_ms(500);
 
     AppFlashSts = downloadNflashApps();
 

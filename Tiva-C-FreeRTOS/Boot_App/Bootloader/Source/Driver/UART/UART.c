@@ -140,7 +140,7 @@ void Delay(unsigned long counter)
 }
 
 
-
+/********************** receives 1-byte of data *********************/
 uint8_t UART_Receive() 
 {
     uint8_t rx_data = 0xff;
@@ -154,7 +154,7 @@ uint8_t UART_Receive()
     return rx_data;
 }
 
-
+/********************** receives 4-bytes of data *********************/
 uint32_t UART_Receive_Long()
 {
     uint32_t rx_data = 0;

@@ -37,7 +37,7 @@ I2C_config_type I2C_config[] =
   }
 };
   
-static uint32_t I2C_Index       = 0; 
+static uint32_t I2C_Index       = 2;  // default use I2C2
 static int error_code           = 0;
 static uint8_t I2C_Init_Flag    =  (uint8_t)0;
 static uint32_t I2C_TPR         = 0;
@@ -309,7 +309,7 @@ void I2C_Read_Multiple(uint8_t slave_address , uint8_t *data , uint32_t num_of_d
 	
 	if(I2C_Init_Flag == 0)
 	{
-		I2C_Init(I2C_0, 100);
+		//I2C_Init(I2C_2, 500);
 	}
 	else
 	{
