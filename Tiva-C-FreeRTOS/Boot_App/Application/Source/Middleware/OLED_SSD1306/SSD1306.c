@@ -323,6 +323,19 @@ void ssd1306_clear(void)
     }
 }
 
+
+/******************** Clear the SSD1306 row display buffer **********************/
+void ssd1306_clear_row(uint8_t row_num)
+{
+    ssd1306_setcursor(row_num, 0);
+
+    // Send the display buffer
+    for (uint16_t i = 0; i < SSD1306_WIDTH; i++)
+    {
+        ssd1306_data(0);
+    }
+}
+
 /***** Refresh the display with the contents of the display buffer *************/
 void ssd1306_refresh() 
 {

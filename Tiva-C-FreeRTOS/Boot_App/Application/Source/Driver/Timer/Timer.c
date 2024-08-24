@@ -208,3 +208,16 @@ static void Clear_Timer_Flag()
 	Flag_1000ms  =  (uint8_t)0;
 	Flag_2000ms  =  (uint8_t)0;
 }
+
+
+
+/******************************************************************************/
+void Delay_ms(unsigned int delay_value)
+{
+    uint32_t i = 0;
+    uint32_t j = 0;
+    for(i=0 ; i<delay_value ; i++)
+    {
+        for(j=0 ; j < 3180 ; j++);
+    }
+}

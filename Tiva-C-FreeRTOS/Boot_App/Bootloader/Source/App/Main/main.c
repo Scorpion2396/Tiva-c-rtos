@@ -32,6 +32,12 @@ void main()
 
         SCB->VTOR = APPS_FLASH_START_ADDR;  // change in Interrupt Vector Table address to Apps IntVtrTble
         __set_MSP(apps_stack_ptr);
+
+        ssd1306_clear_row(7);
+        ssd1306_setcursor(7,0);
+        ssd1306_Print_String("loading Apps");
+        Delay_ms(2000);
+
         jump_to_apps();
     }
     else

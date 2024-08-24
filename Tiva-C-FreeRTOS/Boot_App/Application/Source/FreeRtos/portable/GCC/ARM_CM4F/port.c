@@ -67,7 +67,7 @@
 #define portAIRCR_REG                         ( *( ( volatile uint32_t * ) 0xE000ED0C ) )
 #define portMAX_8_BIT_VALUE                   ( ( uint8_t ) 0xff )
 #define portTOP_BIT_OF_BYTE                   ( ( uint8_t ) 0x80 )
-#define portMAX_PRIGROUP_BITS                 ( ( uint8_t ) 7 )
+#define portMAX_PRIGROUP_BITS                 ( ( uint8_t ) 3 )
 #define portPRIORITY_GROUP_MASK               ( 0x07UL << 8UL )
 #define portPRIGROUP_SHIFT                    ( 8UL )
 

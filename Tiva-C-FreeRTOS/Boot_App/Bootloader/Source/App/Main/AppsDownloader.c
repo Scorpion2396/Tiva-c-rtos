@@ -52,7 +52,7 @@ uint8_t downloadNflashApps()
 
     rx_app_size  = (uint32_t)((temp1[3]<<24) | (temp1[2]<<16) | (temp1[1]<<8) | (temp1[0]<<0));
 
-    sprintf(str1,"AppSize=%d\r\n", rx_app_size);
+    sprintf(str1,"AppSize=%ld\r\n", rx_app_size);
     ssd1306_setcursor(0,0);
     ssd1306_Print_String(str1);
 
@@ -105,7 +105,7 @@ uint8_t downloadNflashApps()
 //            ssd1306_Print_String("Complete");
 //        }
 
-        sprintf(str1,"block received =%d\r\n", block_cnt+1);
+        sprintf(str1,"block received =%ld\r\n", block_cnt+1);
         ssd1306_setcursor(1,0);
         ssd1306_Print_String(str1);
 

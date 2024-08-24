@@ -1,9 +1,8 @@
 /* Board Support Package */
 #include "TM4C123GH6PM.h"
 #include "bsp.h"
-#include "FreeRTOSConfig.h"
 
-uint32_t SystemCoreClock = 16000000;
+uint32_t SystemCoreClock = SYS_CLOCK_HZ;
 
 /**************************************************************************/
 __attribute__((naked)) void assert_failed (char const *file, int line)

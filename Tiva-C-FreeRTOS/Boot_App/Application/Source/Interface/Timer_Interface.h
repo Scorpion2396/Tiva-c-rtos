@@ -10,4 +10,6 @@ extern void Stop_Timer_0();
 extern void Refresh_Timer_0();
 extern void Timer_scheduler();
 
+extern void Delay_ms(unsigned int delay_value);
+
 #endif

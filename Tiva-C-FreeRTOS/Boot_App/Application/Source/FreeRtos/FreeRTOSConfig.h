@@ -28,7 +28,6 @@
 #ifndef FREERTOS_CONFIG_H
 #define FREERTOS_CONFIG_H
 
-
 /*-----------------------------------------------------------
  * Application specific definitions.
  *
@@ -44,16 +43,6 @@
 #include <stdint.h>
 extern uint32_t SystemCoreClock;
 
-#define SVC_Handler			vPortSVCHandler
-#define PendSV_Handler		xPortPendSVHandler
-#define SysTick_Handler		xPortSysTickHandler
-
-
-/* The following definition allows the startup files that ship with the IDE
-to be used without modification when the chip used includes the PMU CM001
-errata. */
-#define WORKAROUND_PMU_CM001					1
-
 #define configUSE_PREEMPTION					1
 #define configUSE_PORT_OPTIMISED_TASK_SELECTION	1
 #define configUSE_IDLE_HOOK						0
@@ -61,7 +50,7 @@ errata. */
 #define configCPU_CLOCK_HZ						( SystemCoreClock )
 #define configTICK_RATE_HZ						( ( TickType_t ) 1000 )
 #define configMAX_PRIORITIES					( 5 )
-#define configMINIMAL_STACK_SIZE				( ( unsigned short ) 130 )
+#define configMINIMAL_STACK_SIZE				( ( unsigned short ) 256 )
 #define configTOTAL_HEAP_SIZE					( ( size_t ) ( 8 * 1024 ) ) //16 Kb
 #define configMAX_TASK_NAME_LEN					( 10 )
 #define configUSE_TRACE_FACILITY				1
@@ -98,7 +87,7 @@ to exclude the API function. */
 	/* __BVIC_PRIO_BITS will be specified when CMSIS is being used. */
 	#define configPRIO_BITS       		__NVIC_PRIO_BITS
 #else
-	#define configPRIO_BITS       		6        /* 63 priority levels */
+	#define configPRIO_BITS       		3        /* 63 priority levels */
 #endif
 
 /* The lowest interrupt priority that can be used in a call to a "set priority"
@@ -124,43 +113,11 @@ header file. */
 
 /* Definitions that map the FreeRTOS port interrupt handlers to their CMSIS
 standard names. */
-#if WORKAROUND_PMU_CM001 == 1
-	#define xPortPendSVHandler PendSV_Handler_Veneer
-#else
-	#define xPortPendSVHandler PendSV_Handler
-#endif
-#define vPortSVCHandler SVC_Handler
-#define xPortSysTickHandler SysTick_Handler
+#define xPortPendSVHandler     PendSV_Handler
+#define vPortSVCHandler        SVC_Handler
+#define xPortSysTickHandler    SysTick_Handler
 
-/* Demo application specific settings. */
-#if UC_ID == 4502
-	/* Hardware includes. */
-	#include "XMC4500.h"
-	#include "System_XMC4500.h"
 
-	/* Configure pin P3.9 for the LED. */
-	#define configCONFIGURE_LED() ( PORT3->IOCR8 = 0x00008000 )
-	/* To toggle the single LED */
-	#define configTOGGLE_LED()	( PORT3->OMR =	0x02000200 )
-#elif UC_ID == 4400
-	/* Hardware includes. */
-	#include "XMC4400.h"
-	#include "System_XMC4200.h"
-
-	/* Configure pin P5.2 for the LED. */
-	#define configCONFIGURE_LED() ( PORT5->IOCR0 = 0x00800000 )
-	/* To toggle the single LED */
-	#define configTOGGLE_LED()	( PORT5->OMR =	0x00040004 )
-#elif UC_ID == 4206
-	/* Hardware includes. */
-	#include "XMC4200.h"
-	#include "System_XMC4200.h"
-
-	/* Configure pin P2.1 for the LED. */
-	#define configCONFIGURE_LED() PORT2->IOCR0 = 0x00008000; PORT2->HWSEL &= ~0x0000000cUL
-	/* To toggle the single LED */
-	#define configTOGGLE_LED()	( PORT2->OMR =	0x00020002 )
-#endif
 
 
 #endif /* FREERTOS_CONFIG_H */

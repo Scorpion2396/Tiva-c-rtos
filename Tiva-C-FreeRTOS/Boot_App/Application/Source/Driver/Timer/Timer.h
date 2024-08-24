@@ -9,4 +9,6 @@ void Refresh_Timer_0();
 void Timer_scheduler();
 static void Clear_Timer_Flag();
 
+void Delay_ms(unsigned int delay_value);
+
 #endif
