@@ -24,8 +24,20 @@ void OS_init(void)
     /* disable irq */
     __asm volatile ("cpsid i" : : : "memory");
 
+/*
+System Handler Priority Register 2
+Bits	Name	Function
+[31:24]	PRI_11	Priority of system handler 11, SVCall
+[23:0]	-	Reserved
+
+System Handler Priority Register 3
+Bits	Name	Function
+[31:24]	PRI_15	Priority of system handler 15, SysTick exception[a]
+[23:16]	PRI_14	Priority of system handler 14, PendSV
+[15:0]	-	Reserved
+*/
     /* set the SysTick interrupt priority to highest i.e to 0x00 */
-    *(uint32_t volatile*)0xE000ED20 &= ~(0xFFU << 16);     // NVIC_SetPriority(SysTick_IRQn, 0x00U);
+    *(uint32_t volatile*)0xE000ED20 &= ~(0xFFU << 24);     // NVIC_SetPriority(SysTick_IRQn, 0x00U);
 
    /* set PendSV interrupt priority to the lowest level i.e to 0xFF */
     *(uint32_t volatile*)0xE000ED20 |= (0xFFU << 16);      // NVIC_SetPriority(PendSV_IRQn, 0xFFU);
